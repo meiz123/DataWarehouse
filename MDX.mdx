@@ -1,0 +1,72 @@
+﻿--Tổng doanh thu và lợi nhuận của cửa hàng trong năm 2024 là bao nhiêu?
+SELECT  
+    { [Measures].[Total Price], [Measures].[Profit] } ON COLUMNS 
+FROM 
+    [ETL Star Schema Online Shop]
+WHERE 
+    [Dim Time].[Order Year].[2024];
+
+--Trong năm 2024, danh mục sản phẩm nào bán chạy nhất theo từng quý?
+SELECT  
+    { [Measures].[Quantity] } ON COLUMNS, 
+    NONEMPTY(
+        [Dim Time].[Order Quarter].[Order Quarter].Members *
+        TOPCOUNT(
+            [Dim Product].[Category].[Category].Members, 
+            1, 
+            [Measures].[Quantity]
+        )
+    ) ON ROWS
+FROM 
+    [ETL Star Schema Online Shop]
+WHERE 
+    [Dim Time].[Order Year].[2024];
+
+-- Doanh thu và lợi nhuận của danh mục sản phẩm ‘Electronics’theo từng tháng của năm 2024
+SELECT   
+    { [Measures].[Total Price], [Measures].[Profit] } ON COLUMNS, 
+    ORDER(
+        NONEMPTY(
+            [Dim Time].[Order Month].[Order Month].Members
+        ),
+        [Dim Time].[Order Month].CurrentMember.MemberValue, 
+        ASC
+    ) ON ROWS
+FROM 
+    [ETL Star Schema Online Shop]
+WHERE 
+    ([Dim Time].[Order Year].[2024], [Dim Product].[Category].[Electronics]);
+
+
+--Doanh thu theo từng danh mục sản phẩm trong năm 2024 là bao nhiêu
+SELECT   
+    { [Measures].[Total Price] } ON COLUMNS, 
+    ORDER(
+        NONEMPTY([Dim Product].[Category].[Category].Members, [Measures].[Total Price]), 
+        [Measures].[Total Price], 
+        ASC
+    ) ON ROWS
+FROM 
+    [ETL Star Schema Online Shop]
+WHERE 
+    [Dim Time].[Order Year].[2024];
+
+--Top 5 sản phẩm có sô lượng bán chạy nhất
+SELECT  
+    { [Measures].[Quantity] } ON COLUMNS, 
+    TOPCOUNT(
+        NONEMPTY(
+            [Dim Product].[Product Name].Members - [Dim Product].[Product Name].[All], 
+            [Measures].[Quantity]
+        ), 
+        6, 
+        [Measures].[Quantity]
+    ) ON ROWS
+FROM 
+    [ETL Star Schema Online Shop]
+WHERE 
+    [Dim Time].[Order Year].[2024];
+
+--Top sản phẩm có sô lượng bán chậm nhất
+
+
