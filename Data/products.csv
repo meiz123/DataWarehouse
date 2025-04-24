@@ -1,0 +1,2001 @@
+product_id,product_name,category,price,supplier_id
+1,Office Chair,Furniture,126.09,501
+2,Coffee Maker,Home & Kitchen,457.09,502
+3,Document Scanner,Electronics,267.33,503
+4,Desk Mat,Accessories,418.5,504
+5,Tablet Stand,Accessories,333.57,505
+6,Drawer Unit,Furniture,484.11,506
+7,Bath Towels,Home & Kitchen,263.63,507
+8,External SSD,Electronics,332.06,508
+9,Computer Speakers,Electronics,329.83,509
+10,Gaming Keyboard,Electronics,343.86,510
+11,Gaming Mouse Pad,Accessories,269.9,511
+12,Rice Cooker,Home & Kitchen,270.79,512
+13,Phone Grip,Accessories,506.05,513
+14,Toaster Oven,Home & Kitchen,277.88,514
+15,Laptop Stand,Accessories,400.76,515
+16,Mechanical Keyboard,Electronics,214.75,516
+17,Food Processor,Home & Kitchen,466.42,517
+18,Monitor Stand,Furniture,281.67,518
+19,Laptop Sleeve,Accessories,252.95,519
+20,Wireless Mouse,Electronics,385.44,520
+21,Power Strip,Electronics,232.78,521
+22,Microphone,Electronics,400.6,522
+23,Bookshelf,Furniture,313.15,523
+24,Portable Charger,Accessories,402.73,524
+25,Bluetooth Headphones,Electronics,284.97,525
+26,Noise Cancelling Headset,Electronics,315.38,526
+27,Smart Watch,Electronics,250.65,527
+28,Cable Organizer,Accessories,204.35,528
+29,Storage Containers,Home & Kitchen,892.54,529
+30,Kitchen Blender,Home & Kitchen,324.58,530
+31,Wall Clock,Home & Kitchen,475.29,531
+32,Storage Shelf,Furniture,213.82,532
+33,WiFi Router,Electronics,349.17,533
+34,Air Purifier,Home & Kitchen,390.73,534
+35,Smartphone Case,Accessories,142.79,535
+36,Standing Desk,Furniture,385.36,536
+37,Throw Pillows,Home & Kitchen,391.98,537
+38,Wireless Charger,Electronics,286.98,538
+39,Wireless Presenter,Electronics,416.01,539
+40,USB-C Hub,Electronics,412.46,540
+41,Wireless Earbuds,Electronics,168.18,541
+42,Electric Kettle,Home & Kitchen,219.79,542
+43,Desk Organizer,Accessories,376.95,543
+44,Screen Protector,Accessories,378.14,544
+45,Desk Lamp,Home & Kitchen,413.05,545
+46,4K Monitor,Electronics,285.56,546
+47,Water Bottle,Home & Kitchen,272.04,547
+48,File Cabinet,Furniture,344.87,548
+49,Webcam HD,Electronics,459.63,549
+50,Keyboard Wrist Rest,Accessories,458.43,550
+51,Office Chair,Furniture,439.16,551
+52,Coffee Maker,Home & Kitchen,324.06,552
+53,Document Scanner,Electronics,176.24,553
+54,Desk Mat,Accessories,626.85,554
+55,Tablet Stand,Accessories,336.38,555
+56,Drawer Unit,Furniture,205.71,556
+57,Bath Towels,Home & Kitchen,447.09,557
+58,External SSD,Electronics,252.7,558
+59,Computer Speakers,Electronics,278.28,559
+60,Gaming Keyboard,Electronics,440.65,560
+61,Gaming Mouse Pad,Accessories,448.4,561
+62,Rice Cooker,Home & Kitchen,410.31,562
+63,Phone Grip,Accessories,343.18,563
+64,Toaster Oven,Home & Kitchen,323.63,564
+65,Laptop Stand,Accessories,382.88,565
+66,Mechanical Keyboard,Electronics,398.45,566
+67,Food Processor,Home & Kitchen,262.58,567
+68,Monitor Stand,Furniture,331.01,568
+69,Laptop Sleeve,Accessories,189.33,569
+70,Wireless Mouse,Electronics,398.08,570
+71,Power Strip,Electronics,395.79,571
+72,Microphone,Electronics,312.56,572
+73,Bookshelf,Furniture,411.77,573
+74,Portable Charger,Accessories,329.27,574
+75,Bluetooth Headphones,Electronics,233.68,575
+76,Noise Cancelling Headset,Electronics,330.55,576
+77,Smart Watch,Electronics,224.7,577
+78,Cable Organizer,Accessories,206.45,578
+79,Storage Containers,Home & Kitchen,436.66,579
+80,Kitchen Blender,Home & Kitchen,281.89,580
+81,Wall Clock,Home & Kitchen,365.97,581
+82,Storage Shelf,Furniture,441.69,582
+83,WiFi Router,Electronics,236.63,583
+84,Air Purifier,Home & Kitchen,347.89,584
+85,Smartphone Case,Accessories,323.06,585
+86,Standing Desk,Furniture,453.36,586
+87,Throw Pillows,Home & Kitchen,276.81,587
+88,Wireless Charger,Electronics,205.47,588
+89,Wireless Presenter,Electronics,287.3,589
+90,USB-C Hub,Electronics,298.57,590
+91,Wireless Earbuds,Electronics,471.56,591
+92,Electric Kettle,Home & Kitchen,211.55,592
+93,Desk Organizer,Accessories,384.09,593
+94,Screen Protector,Accessories,388.9,594
+95,Desk Lamp,Home & Kitchen,584.56,595
+96,4K Monitor,Electronics,309.95,596
+97,Water Bottle,Home & Kitchen,180.81,597
+98,File Cabinet,Furniture,379.97,598
+99,Webcam HD,Electronics,365.73,599
+100,Keyboard Wrist Rest,Accessories,402.25,600
+101,Office Chair,Furniture,628.25,501
+102,Coffee Maker,Home & Kitchen,338.27,502
+103,Document Scanner,Electronics,379.65,503
+104,Desk Mat,Accessories,396.94,504
+105,Tablet Stand,Accessories,284.01,505
+106,Drawer Unit,Furniture,362.12,506
+107,Bath Towels,Home & Kitchen,352.44,507
+108,External SSD,Electronics,246.31,508
+109,Computer Speakers,Electronics,363.2,509
+110,Gaming Keyboard,Electronics,322.25,510
+111,Gaming Mouse Pad,Accessories,557.73,511
+112,Rice Cooker,Home & Kitchen,432.44,512
+113,Phone Grip,Accessories,510.93,513
+114,Toaster Oven,Home & Kitchen,228.69,514
+115,Laptop Stand,Accessories,361.9,515
+116,Mechanical Keyboard,Electronics,352.57,516
+117,Food Processor,Home & Kitchen,354.03,517
+118,Monitor Stand,Furniture,349.58,518
+119,Laptop Sleeve,Accessories,240.4,519
+120,Wireless Mouse,Electronics,323.51,520
+121,Power Strip,Electronics,489.61,521
+122,Microphone,Electronics,397.53,522
+123,Bookshelf,Furniture,488.75,523
+124,Portable Charger,Accessories,566.44,524
+125,Bluetooth Headphones,Electronics,483.26,525
+126,Noise Cancelling Headset,Electronics,481.9,526
+127,Smart Watch,Electronics,383.7,527
+128,Cable Organizer,Accessories,284.81,528
+129,Storage Containers,Home & Kitchen,161.47,529
+130,Kitchen Blender,Home & Kitchen,428.36,530
+131,Wall Clock,Home & Kitchen,352.33,531
+132,Storage Shelf,Furniture,319.78,532
+133,WiFi Router,Electronics,316.79,533
+134,Air Purifier,Home & Kitchen,254.65,534
+135,Smartphone Case,Accessories,506.33,535
+136,Standing Desk,Furniture,204.85,536
+137,Throw Pillows,Home & Kitchen,303.24,537
+138,Wireless Charger,Electronics,375.75,538
+139,Wireless Presenter,Electronics,282.05,539
+140,USB-C Hub,Electronics,349.07,540
+141,Wireless Earbuds,Electronics,370.91,541
+142,Electric Kettle,Home & Kitchen,327.03,542
+143,Desk Organizer,Accessories,363.12,543
+144,Screen Protector,Accessories,354.11,544
+145,Desk Lamp,Home & Kitchen,338.04,545
+146,4K Monitor,Electronics,392.1,546
+147,Water Bottle,Home & Kitchen,315.26,547
+148,File Cabinet,Furniture,304.02,548
+149,Webcam HD,Electronics,372.46,549
+150,Keyboard Wrist Rest,Accessories,281.73,550
+151,Office Chair,Furniture,282.59,551
+152,Coffee Maker,Home & Kitchen,276.64,552
+153,Document Scanner,Electronics,270.26,553
+154,Desk Mat,Accessories,377.12,554
+155,Tablet Stand,Accessories,396.04,555
+156,Drawer Unit,Furniture,316.25,556
+157,Bath Towels,Home & Kitchen,414.89,557
+158,External SSD,Electronics,408.77,558
+159,Computer Speakers,Electronics,325.26,559
+160,Gaming Keyboard,Electronics,377.45,560
+161,Gaming Mouse Pad,Accessories,263.44,561
+162,Rice Cooker,Home & Kitchen,224.74,562
+163,Phone Grip,Accessories,361.47,563
+164,Toaster Oven,Home & Kitchen,315.05,564
+165,Laptop Stand,Accessories,255.95,565
+166,Mechanical Keyboard,Electronics,440.06,566
+167,Food Processor,Home & Kitchen,453.95,567
+168,Monitor Stand,Furniture,195.22,568
+169,Laptop Sleeve,Accessories,272.21,569
+170,Wireless Mouse,Electronics,438.68,570
+171,Power Strip,Electronics,360.52,571
+172,Microphone,Electronics,471.42,572
+173,Bookshelf,Furniture,335.97,573
+174,Portable Charger,Accessories,427.29,574
+175,Bluetooth Headphones,Electronics,299.01,575
+176,Noise Cancelling Headset,Electronics,453.88,576
+177,Smart Watch,Electronics,275.04,577
+178,Cable Organizer,Accessories,202,578
+179,Storage Containers,Home & Kitchen,520.73,579
+180,Kitchen Blender,Home & Kitchen,544.65,580
+181,Wall Clock,Home & Kitchen,364.48,581
+182,Storage Shelf,Furniture,455.36,582
+183,WiFi Router,Electronics,402.37,583
+184,Air Purifier,Home & Kitchen,384.86,584
+185,Smartphone Case,Accessories,346.56,585
+186,Standing Desk,Furniture,390.81,586
+187,Throw Pillows,Home & Kitchen,308.82,587
+188,Wireless Charger,Electronics,306.34,588
+189,Wireless Presenter,Electronics,254.27,589
+190,USB-C Hub,Electronics,469.14,590
+191,Wireless Earbuds,Electronics,384.9,591
+192,Electric Kettle,Home & Kitchen,299.5,592
+193,Desk Organizer,Accessories,238.37,593
+194,Screen Protector,Accessories,411.33,594
+195,Desk Lamp,Home & Kitchen,299.51,595
+196,4K Monitor,Electronics,749.08,596
+197,Water Bottle,Home & Kitchen,299.59,597
+198,File Cabinet,Furniture,555.24,598
+199,Webcam HD,Electronics,293.02,599
+200,Keyboard Wrist Rest,Accessories,159.71,600
+201,Office Chair,Furniture,400.41,501
+202,Coffee Maker,Home & Kitchen,351.19,502
+203,Document Scanner,Electronics,219.36,503
+204,Desk Mat,Accessories,326.13,504
+205,Tablet Stand,Accessories,255.62,505
+206,Drawer Unit,Furniture,298.17,506
+207,Bath Towels,Home & Kitchen,428.94,507
+208,External SSD,Electronics,228.18,508
+209,Computer Speakers,Electronics,392.86,509
+210,Gaming Keyboard,Electronics,222.96,510
+211,Gaming Mouse Pad,Accessories,381.73,511
+212,Rice Cooker,Home & Kitchen,252.63,512
+213,Phone Grip,Accessories,500.87,513
+214,Toaster Oven,Home & Kitchen,318.21,514
+215,Laptop Stand,Accessories,301.01,515
+216,Mechanical Keyboard,Electronics,385.34,516
+217,Food Processor,Home & Kitchen,362.04,517
+218,Monitor Stand,Furniture,342.75,518
+219,Laptop Sleeve,Accessories,279.27,519
+220,Wireless Mouse,Electronics,355.67,520
+221,Power Strip,Electronics,231.5,521
+222,Microphone,Electronics,202.75,522
+223,Bookshelf,Furniture,263.09,523
+224,Portable Charger,Accessories,317.41,524
+225,Bluetooth Headphones,Electronics,355.78,525
+226,Noise Cancelling Headset,Electronics,292.26,526
+227,Smart Watch,Electronics,507.64,527
+228,Cable Organizer,Accessories,403.21,528
+229,Storage Containers,Home & Kitchen,330.9,529
+230,Kitchen Blender,Home & Kitchen,377.06,530
+231,Wall Clock,Home & Kitchen,350.56,531
+232,Storage Shelf,Furniture,180.35,532
+233,WiFi Router,Electronics,326.26,533
+234,Air Purifier,Home & Kitchen,451.23,534
+235,Smartphone Case,Accessories,446.63,535
+236,Standing Desk,Furniture,412.03,536
+237,Throw Pillows,Home & Kitchen,276.33,537
+238,Wireless Charger,Electronics,301.58,538
+239,Wireless Presenter,Electronics,352.46,539
+240,USB-C Hub,Electronics,329.77,540
+241,Wireless Earbuds,Electronics,382.78,541
+242,Electric Kettle,Home & Kitchen,324.74,542
+243,Desk Organizer,Accessories,308.72,543
+244,Screen Protector,Accessories,258.69,544
+245,Desk Lamp,Home & Kitchen,221.85,545
+246,4K Monitor,Electronics,441.9,546
+247,Water Bottle,Home & Kitchen,287.97,547
+248,File Cabinet,Furniture,553.32,548
+249,Webcam HD,Electronics,173.68,549
+250,Keyboard Wrist Rest,Accessories,348.48,550
+251,Office Chair,Furniture,311.24,551
+252,Coffee Maker,Home & Kitchen,400.61,552
+253,Document Scanner,Electronics,458.35,553
+254,Desk Mat,Accessories,612.67,554
+255,Tablet Stand,Accessories,325.26,555
+256,Drawer Unit,Furniture,349.64,556
+257,Bath Towels,Home & Kitchen,209.35,557
+258,External SSD,Electronics,244.25,558
+259,Computer Speakers,Electronics,410.66,559
+260,Gaming Keyboard,Electronics,237.43,560
+261,Gaming Mouse Pad,Accessories,387.96,561
+262,Rice Cooker,Home & Kitchen,295.28,562
+263,Phone Grip,Accessories,354.98,563
+264,Toaster Oven,Home & Kitchen,453.25,564
+265,Laptop Stand,Accessories,406.8,565
+266,Mechanical Keyboard,Electronics,234.79,566
+267,Food Processor,Home & Kitchen,454.31,567
+268,Monitor Stand,Furniture,311.86,568
+269,Laptop Sleeve,Accessories,293.92,569
+270,Wireless Mouse,Electronics,457.22,570
+271,Power Strip,Electronics,526.72,571
+272,Microphone,Electronics,266.04,572
+273,Bookshelf,Furniture,,573
+274,Portable Charger,Accessories,524.58,574
+275,Bluetooth Headphones,Electronics,303.18,575
+276,Noise Cancelling Headset,Electronics,308.43,576
+277,Smart Watch,Electronics,292.66,577
+278,Cable Organizer,Accessories,208.75,578
+279,Storage Containers,Home & Kitchen,258.84,579
+280,Kitchen Blender,Home & Kitchen,386.52,580
+281,Wall Clock,Home & Kitchen,379.9,581
+282,Storage Shelf,Furniture,370.52,582
+283,WiFi Router,Electronics,341.83,583
+284,Air Purifier,Home & Kitchen,240.19,584
+285,Smartphone Case,Accessories,464.91,585
+286,Standing Desk,Furniture,319.27,586
+287,Throw Pillows,Home & Kitchen,403.77,587
+288,Wireless Charger,Electronics,374.2,588
+289,Wireless Presenter,Electronics,343.31,589
+290,USB-C Hub,Electronics,500.43,590
+291,Wireless Earbuds,Electronics,205.7,591
+292,Electric Kettle,Home & Kitchen,322.02,592
+293,Desk Organizer,Accessories,503.26,593
+294,Screen Protector,Accessories,379.43,594
+295,Desk Lamp,Home & Kitchen,464.52,595
+296,4K Monitor,Electronics,249.62,596
+297,Water Bottle,Home & Kitchen,519.79,597
+298,File Cabinet,Furniture,336.14,598
+299,Webcam HD,Electronics,397.34,599
+300,Keyboard Wrist Rest,Accessories,263.1,600
+301,Office Chair,Furniture,212.69,501
+302,Coffee Maker,Home & Kitchen,486.34,502
+303,Document Scanner,Electronics,301.8,503
+304,Desk Mat,Accessories,146.88,504
+305,Tablet Stand,Accessories,372.3,505
+306,Drawer Unit,Furniture,333.66,506
+307,Bath Towels,Home & Kitchen,604.88,507
+308,External SSD,Electronics,248.02,508
+309,Computer Speakers,Electronics,439.3,509
+310,Gaming Keyboard,Electronics,412.53,510
+311,Gaming Mouse Pad,Accessories,296.23,511
+312,Rice Cooker,Home & Kitchen,372.93,512
+313,Phone Grip,Accessories,288.42,513
+314,Toaster Oven,Home & Kitchen,258.28,514
+315,Laptop Stand,Accessories,327.19,515
+316,Mechanical Keyboard,Electronics,296.47,516
+317,Food Processor,Home & Kitchen,374.76,517
+318,Monitor Stand,Furniture,293.42,518
+319,Laptop Sleeve,Accessories,389.6,519
+320,Wireless Mouse,Electronics,396.54,520
+321,Power Strip,Electronics,201.89,521
+322,Microphone,Electronics,345.06,522
+323,Bookshelf,Furniture,364.4,523
+324,Portable Charger,Accessories,307.33,524
+325,Bluetooth Headphones,Electronics,375.72,525
+326,Noise Cancelling Headset,Electronics,187.82,526
+327,Smart Watch,Electronics,287.85,527
+328,Cable Organizer,Accessories,307.23,528
+329,Storage Containers,Home & Kitchen,318.63,529
+330,Kitchen Blender,Home & Kitchen,352.4,530
+331,Wall Clock,Home & Kitchen,181.87,531
+332,Storage Shelf,Furniture,251.79,532
+333,WiFi Router,Electronics,290.86,533
+334,Air Purifier,Home & Kitchen,389.69,534
+335,Smartphone Case,Accessories,276.71,535
+336,Standing Desk,Furniture,385.14,536
+337,Throw Pillows,Home & Kitchen,292.11,537
+338,Wireless Charger,Electronics,352.83,538
+339,Wireless Presenter,Electronics,254.31,539
+340,USB-C Hub,Electronics,309.54,540
+341,Wireless Earbuds,Electronics,217.24,541
+342,Electric Kettle,Home & Kitchen,278.11,542
+343,Desk Organizer,Accessories,360.3,543
+344,Screen Protector,Accessories,374.78,544
+345,Desk Lamp,Home & Kitchen,309.26,545
+346,4K Monitor,Electronics,324.06,546
+347,Water Bottle,Home & Kitchen,314.04,547
+348,File Cabinet,Furniture,428.58,548
+349,Webcam HD,Electronics,365.38,549
+350,Keyboard Wrist Rest,Accessories,346.04,550
+351,Office Chair,Furniture,488.93,551
+352,Coffee Maker,Home & Kitchen,364.13,552
+353,Document Scanner,Electronics,418.7,553
+354,Desk Mat,Accessories,369.75,554
+355,Tablet Stand,Accessories,347.99,555
+356,Drawer Unit,Furniture,370.5,556
+357,Bath Towels,Home & Kitchen,298.91,557
+358,External SSD,Electronics,427.12,558
+359,Computer Speakers,Electronics,384.81,559
+360,Gaming Keyboard,Electronics,334.11,560
+361,Gaming Mouse Pad,Accessories,191.02,561
+362,Rice Cooker,Home & Kitchen,375.76,562
+363,Phone Grip,Accessories,224.47,563
+364,Toaster Oven,Home & Kitchen,310.06,564
+365,Laptop Stand,Accessories,663.46,565
+366,Mechanical Keyboard,Electronics,269.57,566
+367,Food Processor,Home & Kitchen,209.42,567
+368,Monitor Stand,Furniture,314.93,568
+369,Laptop Sleeve,Accessories,419.84,569
+370,Wireless Mouse,Electronics,273.63,570
+371,Power Strip,Electronics,348.95,571
+372,Microphone,Electronics,548.46,572
+373,Bookshelf,Furniture,299.27,573
+374,Portable Charger,Accessories,329.55,574
+375,Bluetooth Headphones,Electronics,223.57,575
+376,Noise Cancelling Headset,Electronics,386.7,576
+377,Smart Watch,Electronics,290.5,577
+378,Cable Organizer,Accessories,315.37,578
+379,Storage Containers,Home & Kitchen,254.72,579
+380,Kitchen Blender,Home & Kitchen,435.86,580
+381,Wall Clock,Home & Kitchen,263.14,581
+382,Storage Shelf,Furniture,374.14,582
+383,WiFi Router,Electronics,497.25,583
+384,Air Purifier,Home & Kitchen,354.22,584
+385,Smartphone Case,Accessories,396.22,585
+386,Standing Desk,Furniture,198.86,586
+387,Throw Pillows,Home & Kitchen,404.66,587
+388,Wireless Charger,Electronics,183.64,588
+389,Wireless Presenter,Electronics,434.88,589
+390,USB-C Hub,Electronics,342.06,590
+391,Wireless Earbuds,Electronics,503.78,591
+392,Electric Kettle,Home & Kitchen,451.13,592
+393,Desk Organizer,Accessories,420.75,593
+394,Screen Protector,Accessories,369.19,594
+395,Desk Lamp,Home & Kitchen,359.59,595
+396,4K Monitor,Electronics,447.06,596
+397,Water Bottle,Home & Kitchen,309.23,597
+398,File Cabinet,Furniture,455.39,598
+399,Webcam HD,Electronics,239.08,599
+400,Keyboard Wrist Rest,Accessories,404.75,600
+401,Office Chair,Furniture,424.13,501
+402,Coffee Maker,Home & Kitchen,381.12,502
+403,Document Scanner,Electronics,336.44,503
+404,Desk Mat,Accessories,336.01,504
+405,Tablet Stand,Accessories,428.38,505
+406,Drawer Unit,Furniture,386.75,506
+407,Bath Towels,Home & Kitchen,285.11,507
+408,External SSD,Electronics,302.72,508
+409,Computer Speakers,Electronics,227.22,509
+410,Gaming Keyboard,Electronics,365.72,510
+411,Gaming Mouse Pad,Accessories,298.02,511
+412,Rice Cooker,Home & Kitchen,345.72,512
+413,Phone Grip,Accessories,621.4,513
+414,Toaster Oven,Home & Kitchen,386.46,514
+415,Laptop Stand,Accessories,413.79,515
+416,Mechanical Keyboard,Electronics,179.43,516
+417,Food Processor,Home & Kitchen,369.87,517
+418,Monitor Stand,Furniture,294.41,518
+419,Laptop Sleeve,Accessories,303.44,519
+420,Wireless Mouse,Electronics,610.19,520
+421,Power Strip,Electronics,448.25,521
+422,Microphone,Electronics,340.15,522
+423,Bookshelf,Furniture,348.63,523
+424,Portable Charger,Accessories,365.65,524
+425,Bluetooth Headphones,Electronics,278.18,525
+426,Noise Cancelling Headset,Electronics,294.73,526
+427,Smart Watch,Electronics,402.78,527
+428,Cable Organizer,Accessories,444.16,528
+429,Storage Containers,Home & Kitchen,387.6,529
+430,Kitchen Blender,Home & Kitchen,494.56,530
+431,Wall Clock,Home & Kitchen,260.37,531
+432,Storage Shelf,Furniture,260.66,532
+433,WiFi Router,Electronics,259.64,533
+434,Air Purifier,Home & Kitchen,270.04,534
+435,Smartphone Case,Accessories,316.63,535
+436,Standing Desk,Furniture,451.27,536
+437,Throw Pillows,Home & Kitchen,366.68,537
+438,Wireless Charger,Electronics,263.2,538
+439,Wireless Presenter,Electronics,356.63,539
+440,USB-C Hub,Electronics,464.07,540
+441,Wireless Earbuds,Electronics,254.59,541
+442,Electric Kettle,Home & Kitchen,406.4,542
+443,Desk Organizer,Accessories,436.58,543
+444,Screen Protector,Accessories,348.18,544
+445,Desk Lamp,Home & Kitchen,445.94,545
+446,4K Monitor,Electronics,460.96,546
+447,Water Bottle,Home & Kitchen,380.39,547
+448,File Cabinet,Furniture,386.92,548
+449,Webcam HD,Electronics,347.28,549
+450,Keyboard Wrist Rest,Accessories,327.62,550
+451,Office Chair,Furniture,289,551
+452,Coffee Maker,Home & Kitchen,338.36,552
+453,Document Scanner,Electronics,229.25,553
+454,Desk Mat,Accessories,240,554
+455,Tablet Stand,Accessories,330.09,555
+456,Drawer Unit,Furniture,263.55,556
+457,Bath Towels,Home & Kitchen,324.57,557
+458,External SSD,Electronics,219.62,558
+459,Computer Speakers,Electronics,540.81,559
+460,Gaming Keyboard,Electronics,501.97,560
+461,Gaming Mouse Pad,Accessories,462.3,561
+462,Rice Cooker,Home & Kitchen,384.15,562
+463,Phone Grip,Accessories,383.55,563
+464,Toaster Oven,Home & Kitchen,381.16,564
+465,Laptop Stand,Accessories,468.78,565
+466,Mechanical Keyboard,Electronics,441.44,566
+467,Food Processor,Home & Kitchen,295.42,567
+468,Monitor Stand,Furniture,430.46,568
+469,Laptop Sleeve,Accessories,336.4,569
+470,Wireless Mouse,Electronics,362.1,570
+471,Power Strip,Electronics,354.55,571
+472,Microphone,Electronics,424.29,572
+473,Bookshelf,Furniture,388.62,573
+474,Portable Charger,Accessories,592.05,574
+475,Bluetooth Headphones,Electronics,335.07,575
+476,Noise Cancelling Headset,Electronics,180.74,576
+477,Smart Watch,Electronics,356.8,577
+478,Cable Organizer,Accessories,259.02,578
+479,Storage Containers,Home & Kitchen,382.99,579
+480,Kitchen Blender,Home & Kitchen,330.1,580
+481,Wall Clock,Home & Kitchen,260.05,581
+482,Storage Shelf,Furniture,363.25,582
+483,WiFi Router,Electronics,381.23,583
+484,Air Purifier,Home & Kitchen,454.98,584
+485,Smartphone Case,Accessories,558.41,585
+486,Standing Desk,Furniture,373.83,586
+487,Throw Pillows,Home & Kitchen,359.67,587
+488,Wireless Charger,Electronics,303.05,588
+489,Wireless Presenter,Electronics,184.13,589
+490,USB-C Hub,Electronics,335.23,590
+491,Wireless Earbuds,Electronics,527.23,591
+492,Electric Kettle,Home & Kitchen,289.31,592
+493,Desk Organizer,Accessories,423.94,593
+494,Screen Protector,Accessories,319.7,594
+495,Desk Lamp,Home & Kitchen,291.68,595
+496,4K Monitor,Electronics,293.04,596
+497,Water Bottle,Home & Kitchen,489.45,597
+498,File Cabinet,Furniture,328.48,598
+499,Webcam HD,Electronics,339.32,599
+500,Keyboard Wrist Rest,Accessories,293.56,600
+501,Office Chair,Furniture,291.93,501
+502,Coffee Maker,Home & Kitchen,318.55,502
+503,Document Scanner,Electronics,254.08,503
+504,Desk Mat,Accessories,396.53,504
+505,Tablet Stand,Accessories,328.48,505
+506,Drawer Unit,Furniture,256.08,506
+507,Bath Towels,Home & Kitchen,349.44,507
+508,External SSD,Electronics,272.05,508
+509,Computer Speakers,Electronics,415.83,509
+510,Gaming Keyboard,Electronics,368.04,510
+511,Gaming Mouse Pad,Accessories,321.86,511
+512,Rice Cooker,Home & Kitchen,406.67,512
+513,Phone Grip,Accessories,363.37,513
+514,Toaster Oven,Home & Kitchen,341.38,514
+515,Laptop Stand,Accessories,534.05,515
+516,Mechanical Keyboard,Electronics,281.59,516
+517,Food Processor,Home & Kitchen,401.22,517
+518,Monitor Stand,Furniture,346.12,518
+519,Laptop Sleeve,Accessories,392.23,519
+520,Wireless Mouse,Electronics,270.1,520
+521,Power Strip,Electronics,181.4,521
+522,Microphone,Electronics,261.61,522
+523,Bookshelf,Furniture,168.97,523
+524,Portable Charger,Accessories,352.77,524
+525,Bluetooth Headphones,Electronics,283.48,525
+526,Noise Cancelling Headset,Electronics,314.17,526
+527,Smart Watch,Electronics,405.49,527
+528,Cable Organizer,Accessories,292.46,528
+529,Storage Containers,Home & Kitchen,309.61,529
+530,Kitchen Blender,Home & Kitchen,274.56,530
+531,Wall Clock,Home & Kitchen,315.29,531
+532,Storage Shelf,Furniture,197.92,532
+533,WiFi Router,Electronics,349.79,533
+534,Air Purifier,Home & Kitchen,331.99,534
+535,Smartphone Case,Accessories,220.24,535
+536,Standing Desk,Furniture,724.91,536
+537,Throw Pillows,Home & Kitchen,289.13,537
+538,Wireless Charger,Electronics,446.83,538
+539,Wireless Presenter,Electronics,226.9,539
+540,USB-C Hub,Electronics,282.77,540
+541,Wireless Earbuds,Electronics,426.43,541
+542,Electric Kettle,Home & Kitchen,508.86,542
+543,Desk Organizer,Accessories,331.92,543
+544,Screen Protector,Accessories,294.5,544
+545,Desk Lamp,Home & Kitchen,339.94,545
+546,4K Monitor,Electronics,336.64,546
+547,Water Bottle,Home & Kitchen,336.17,547
+548,File Cabinet,Furniture,266.23,548
+549,Webcam HD,Electronics,360.74,549
+550,Keyboard Wrist Rest,Accessories,454.91,550
+551,Office Chair,Furniture,264.87,551
+552,Coffee Maker,Home & Kitchen,262.2,552
+553,Document Scanner,Electronics,247.39,553
+554,Desk Mat,Accessories,307.32,554
+555,Tablet Stand,Accessories,373.7,555
+556,Drawer Unit,Furniture,366.4,556
+557,Bath Towels,Home & Kitchen,456.67,557
+558,External SSD,Electronics,290.75,558
+559,Computer Speakers,Electronics,476.2,559
+560,Gaming Keyboard,Electronics,329.8,560
+561,Gaming Mouse Pad,Accessories,466.01,561
+562,Rice Cooker,Home & Kitchen,271.86,562
+563,Phone Grip,Accessories,308.77,563
+564,Toaster Oven,Home & Kitchen,255.93,564
+565,Laptop Stand,Accessories,263.31,565
+566,Mechanical Keyboard,Electronics,438.17,566
+567,Food Processor,Home & Kitchen,328.11,567
+568,Monitor Stand,Furniture,527.64,568
+569,Laptop Sleeve,Accessories,430.85,569
+570,Wireless Mouse,Electronics,218.72,570
+571,Power Strip,Electronics,347.67,571
+572,Microphone,Electronics,544.66,572
+573,Bookshelf,Furniture,367.51,573
+574,Portable Charger,Accessories,323.97,574
+575,Bluetooth Headphones,Electronics,423.34,575
+576,Noise Cancelling Headset,Electronics,264.22,576
+577,Smart Watch,Electronics,367.7,577
+578,Cable Organizer,Accessories,466.43,578
+579,Storage Containers,Home & Kitchen,323.92,579
+580,Kitchen Blender,Home & Kitchen,320.76,580
+581,Wall Clock,Home & Kitchen,300.71,581
+582,Storage Shelf,Furniture,533.35,582
+583,WiFi Router,Electronics,259.85,583
+584,Air Purifier,Home & Kitchen,265.99,584
+585,Smartphone Case,Accessories,431.62,585
+586,Standing Desk,Furniture,341.07,586
+587,Throw Pillows,Home & Kitchen,197.56,587
+588,Wireless Charger,Electronics,381.43,588
+589,Wireless Presenter,Electronics,335.37,589
+590,USB-C Hub,Electronics,411.41,590
+591,Wireless Earbuds,Electronics,451.82,591
+592,Electric Kettle,Home & Kitchen,499.11,592
+593,Desk Organizer,Accessories,387.43,593
+594,Screen Protector,Accessories,313.96,594
+595,Desk Lamp,Home & Kitchen,364.13,595
+596,4K Monitor,Electronics,333.47,596
+597,Water Bottle,Home & Kitchen,371.62,597
+598,File Cabinet,Furniture,257.3,598
+599,Webcam HD,Electronics,387.71,599
+600,Keyboard Wrist Rest,Accessories,454.44,600
+601,Office Chair,Furniture,263.57,501
+602,Coffee Maker,Home & Kitchen,439.93,502
+603,Document Scanner,Electronics,318.12,503
+604,Desk Mat,Accessories,714.05,504
+605,Tablet Stand,Accessories,250.34,505
+606,Drawer Unit,Furniture,482.64,506
+607,Bath Towels,Home & Kitchen,396.31,507
+608,External SSD,Electronics,587.19,508
+609,Computer Speakers,Electronics,465.07,509
+610,Gaming Keyboard,Electronics,272.41,510
+611,Gaming Mouse Pad,Accessories,277.34,511
+612,Rice Cooker,Home & Kitchen,207.86,512
+613,Phone Grip,Accessories,289.18,513
+614,Toaster Oven,Home & Kitchen,218.32,514
+615,Laptop Stand,Accessories,387.13,515
+616,Mechanical Keyboard,Electronics,233.72,516
+617,Food Processor,Home & Kitchen,372.5,517
+618,Monitor Stand,Furniture,350.28,518
+619,Laptop Sleeve,Accessories,559.95,519
+620,Wireless Mouse,Electronics,394.1,520
+621,Power Strip,Electronics,390.18,521
+622,Microphone,Electronics,640.13,522
+623,Bookshelf,Furniture,364.79,523
+624,Portable Charger,Accessories,272.22,524
+625,Bluetooth Headphones,Electronics,405.32,525
+626,Noise Cancelling Headset,Electronics,378.27,526
+627,Smart Watch,Electronics,300.25,527
+628,Cable Organizer,Accessories,236.97,528
+629,Storage Containers,Home & Kitchen,285.62,529
+630,Kitchen Blender,Home & Kitchen,241.16,530
+631,Wall Clock,Home & Kitchen,414.28,531
+632,Storage Shelf,Furniture,234.31,532
+633,WiFi Router,Electronics,225.96,533
+634,Air Purifier,Home & Kitchen,303.38,534
+635,Smartphone Case,Accessories,264.32,535
+636,Standing Desk,Furniture,263.73,536
+637,Throw Pillows,Home & Kitchen,331.96,537
+638,Wireless Charger,Electronics,192.61,538
+639,Wireless Presenter,Electronics,331.86,539
+640,USB-C Hub,Electronics,298.25,540
+641,Wireless Earbuds,Electronics,455.73,541
+642,Electric Kettle,Home & Kitchen,248.21,542
+643,Desk Organizer,Accessories,383.34,543
+644,Screen Protector,Accessories,222.16,544
+645,Desk Lamp,Home & Kitchen,534.91,545
+646,4K Monitor,Electronics,412.14,546
+647,Water Bottle,Home & Kitchen,375.98,547
+648,File Cabinet,Furniture,450.84,548
+649,Webcam HD,Electronics,349.26,549
+650,Keyboard Wrist Rest,Accessories,295.55,550
+651,Office Chair,Furniture,220.94,551
+652,Coffee Maker,Home & Kitchen,552.94,552
+653,Document Scanner,Electronics,421.42,553
+654,Desk Mat,Accessories,282.92,554
+655,Tablet Stand,Accessories,327.96,555
+656,Drawer Unit,Furniture,417.19,556
+657,Bath Towels,Home & Kitchen,471.08,557
+658,External SSD,Electronics,397.36,558
+659,Computer Speakers,Electronics,342.21,559
+660,Gaming Keyboard,Electronics,485.87,560
+661,Gaming Mouse Pad,Accessories,268.47,561
+662,Rice Cooker,Home & Kitchen,325.76,562
+663,Phone Grip,Accessories,373.54,563
+664,Toaster Oven,Home & Kitchen,256.06,564
+665,Laptop Stand,Accessories,365.75,565
+666,Mechanical Keyboard,Electronics,282.39,566
+667,Food Processor,Home & Kitchen,416.34,567
+668,Monitor Stand,Furniture,317.68,568
+669,Laptop Sleeve,Accessories,296.89,569
+670,Wireless Mouse,Electronics,358.75,570
+671,Power Strip,Electronics,275.04,571
+672,Microphone,Electronics,468.36,572
+673,Bookshelf,Furniture,421.77,573
+674,Portable Charger,Accessories,421.73,574
+675,Bluetooth Headphones,Electronics,416.44,575
+676,Noise Cancelling Headset,Electronics,480.81,576
+677,Smart Watch,Electronics,385.75,577
+678,Cable Organizer,Accessories,333.5,578
+679,Storage Containers,Home & Kitchen,415.91,579
+680,Kitchen Blender,Home & Kitchen,256.35,580
+681,Wall Clock,Home & Kitchen,333.07,581
+682,Storage Shelf,Furniture,392.9,582
+683,WiFi Router,Electronics,272.4,583
+684,Air Purifier,Home & Kitchen,331.66,584
+685,Smartphone Case,Accessories,471.61,585
+686,Standing Desk,Furniture,321.44,586
+687,Throw Pillows,Home & Kitchen,335.32,587
+688,Wireless Charger,Electronics,467.9,588
+689,Wireless Presenter,Electronics,364.38,589
+690,USB-C Hub,Electronics,353.37,590
+691,Wireless Earbuds,Electronics,429.48,591
+692,Electric Kettle,Home & Kitchen,439.04,592
+693,Desk Organizer,Accessories,256.44,593
+694,Screen Protector,Accessories,224.47,594
+695,Desk Lamp,Home & Kitchen,312.75,595
+696,4K Monitor,Electronics,428.79,596
+697,Water Bottle,Home & Kitchen,580.32,597
+698,File Cabinet,Furniture,296.31,598
+699,Webcam HD,Electronics,349.48,599
+700,Keyboard Wrist Rest,Accessories,282.83,600
+701,Office Chair,Furniture,340.57,501
+702,Coffee Maker,Home & Kitchen,267.37,502
+703,Document Scanner,Electronics,326.34,503
+704,Desk Mat,Accessories,380.69,504
+705,Tablet Stand,Accessories,396.55,505
+706,Drawer Unit,Furniture,268.67,506
+707,Bath Towels,Home & Kitchen,255.14,507
+708,External SSD,Electronics,370.93,508
+709,Computer Speakers,Electronics,677.99,509
+710,Gaming Keyboard,Electronics,435.17,510
+711,Gaming Mouse Pad,Accessories,225.36,511
+712,Rice Cooker,Home & Kitchen,442.67,512
+713,Phone Grip,Accessories,479.63,513
+714,Toaster Oven,Home & Kitchen,358.41,514
+715,Laptop Stand,Accessories,320.7,515
+716,Mechanical Keyboard,Electronics,291.63,516
+717,Food Processor,Home & Kitchen,384.56,517
+718,Monitor Stand,Furniture,344.35,518
+719,Laptop Sleeve,Accessories,295.9,519
+720,Wireless Mouse,Electronics,424.4,520
+721,Power Strip,Electronics,435.45,521
+722,Microphone,Electronics,241.35,522
+723,Bookshelf,Furniture,275.64,523
+724,Portable Charger,Accessories,265.04,524
+725,Bluetooth Headphones,Electronics,221.89,525
+726,Noise Cancelling Headset,Electronics,227.73,526
+727,Smart Watch,Electronics,428.43,527
+728,Cable Organizer,Accessories,372.08,528
+729,Storage Containers,Home & Kitchen,291.83,529
+730,Kitchen Blender,Home & Kitchen,454.17,530
+731,Wall Clock,Home & Kitchen,443.63,531
+732,Storage Shelf,Furniture,352.56,532
+733,WiFi Router,Electronics,224.88,533
+734,Air Purifier,Home & Kitchen,490.54,534
+735,Smartphone Case,Accessories,314.49,535
+736,Standing Desk,Furniture,303.21,536
+737,Throw Pillows,Home & Kitchen,307.14,537
+738,Wireless Charger,Electronics,380.97,538
+739,Wireless Presenter,Electronics,383.34,539
+740,USB-C Hub,Electronics,398.73,540
+741,Wireless Earbuds,Electronics,467.78,541
+742,Electric Kettle,Home & Kitchen,203.09,542
+743,Desk Organizer,Accessories,334.67,543
+744,Screen Protector,Accessories,507.54,544
+745,Desk Lamp,Home & Kitchen,295.49,545
+746,4K Monitor,Electronics,331.33,546
+747,Water Bottle,Home & Kitchen,271.19,547
+748,File Cabinet,Furniture,359.01,548
+749,Webcam HD,Electronics,310.87,549
+750,Keyboard Wrist Rest,Accessories,245.97,550
+751,Office Chair,Furniture,542.38,551
+752,Coffee Maker,Home & Kitchen,295.01,552
+753,Document Scanner,Electronics,444.07,553
+754,Desk Mat,Accessories,510.99,554
+755,Tablet Stand,Accessories,333.79,555
+756,Drawer Unit,Furniture,430.52,556
+757,Bath Towels,Home & Kitchen,391.58,557
+758,External SSD,Electronics,480.38,558
+759,Computer Speakers,Electronics,372.39,559
+760,Gaming Keyboard,Electronics,215.33,560
+761,Gaming Mouse Pad,Accessories,296.9,561
+762,Rice Cooker,Home & Kitchen,324.48,562
+763,Phone Grip,Accessories,412.83,563
+764,Toaster Oven,Home & Kitchen,377.62,564
+765,Laptop Stand,Accessories,422.56,565
+766,Mechanical Keyboard,Electronics,202.17,566
+767,Food Processor,Home & Kitchen,687.24,567
+768,Monitor Stand,Furniture,256.18,568
+769,Laptop Sleeve,Accessories,368.26,569
+770,Wireless Mouse,Electronics,430.21,570
+771,Power Strip,Electronics,319.62,571
+772,Microphone,Electronics,329.74,572
+773,Bookshelf,Furniture,381.05,573
+774,Portable Charger,Accessories,508.88,574
+775,Bluetooth Headphones,Electronics,345.06,575
+776,Noise Cancelling Headset,Electronics,243.65,576
+777,Smart Watch,Electronics,375.03,577
+778,Cable Organizer,Accessories,230.72,578
+779,Storage Containers,Home & Kitchen,333.38,579
+780,Kitchen Blender,Home & Kitchen,445,580
+781,Wall Clock,Home & Kitchen,323.96,581
+782,Storage Shelf,Furniture,309.86,582
+783,WiFi Router,Electronics,369.8,583
+784,Air Purifier,Home & Kitchen,347.85,584
+785,Smartphone Case,Accessories,331.58,585
+786,Standing Desk,Furniture,346.22,586
+787,Throw Pillows,Home & Kitchen,449.87,587
+788,Wireless Charger,Electronics,304.65,588
+789,Wireless Presenter,Electronics,313.26,589
+790,USB-C Hub,Electronics,362.39,590
+791,Wireless Earbuds,Electronics,264.19,591
+792,Electric Kettle,Home & Kitchen,487.1,592
+793,Desk Organizer,Accessories,221.52,593
+794,Screen Protector,Accessories,422.28,594
+795,Desk Lamp,Home & Kitchen,461.14,595
+796,4K Monitor,Electronics,399.25,596
+797,Water Bottle,Home & Kitchen,411.25,597
+798,File Cabinet,Furniture,372.59,598
+799,Webcam HD,Electronics,443,599
+800,Keyboard Wrist Rest,Accessories,502.59,600
+801,Office Chair,Furniture,409.5,501
+802,Coffee Maker,Home & Kitchen,379.99,502
+803,Document Scanner,Electronics,358.97,503
+804,Desk Mat,Accessories,315.11,504
+805,Tablet Stand,Accessories,413.87,505
+806,Drawer Unit,Furniture,295.98,506
+807,Bath Towels,Home & Kitchen,297.06,507
+808,External SSD,Electronics,365.62,508
+809,Computer Speakers,Electronics,278.79,509
+810,Gaming Keyboard,Electronics,313.08,510
+811,Gaming Mouse Pad,Accessories,375.13,511
+812,Rice Cooker,Home & Kitchen,244.65,512
+813,Phone Grip,Accessories,350.11,513
+814,Toaster Oven,Home & Kitchen,337.83,514
+815,Laptop Stand,Accessories,364.13,515
+816,Mechanical Keyboard,Electronics,343.85,516
+817,Food Processor,Home & Kitchen,315.25,517
+818,Monitor Stand,Furniture,281.12,518
+819,Laptop Sleeve,Accessories,243.76,519
+820,Wireless Mouse,Electronics,331.62,520
+821,Power Strip,Electronics,265.65,521
+822,Microphone,Electronics,412.19,522
+823,Bookshelf,Furniture,388.03,523
+824,Portable Charger,Accessories,415.78,524
+825,Bluetooth Headphones,Electronics,388.16,525
+826,Noise Cancelling Headset,Electronics,433.66,526
+827,Smart Watch,Electronics,185.1,527
+828,Cable Organizer,Accessories,305.61,528
+829,Storage Containers,Home & Kitchen,278.15,529
+830,Kitchen Blender,Home & Kitchen,426.14,530
+831,Wall Clock,Home & Kitchen,524.86,531
+832,Storage Shelf,Furniture,444.92,532
+833,WiFi Router,Electronics,352.24,533
+834,Air Purifier,Home & Kitchen,377.33,534
+835,Smartphone Case,Accessories,472.35,535
+836,Standing Desk,Furniture,168.69,536
+837,Throw Pillows,Home & Kitchen,556.73,537
+838,Wireless Charger,Electronics,279.1,538
+839,Wireless Presenter,Electronics,269.19,539
+840,USB-C Hub,Electronics,345.15,540
+841,Wireless Earbuds,Electronics,258.39,541
+842,Electric Kettle,Home & Kitchen,318.06,542
+843,Desk Organizer,Accessories,327.79,543
+844,Screen Protector,Accessories,484.1,544
+845,Desk Lamp,Home & Kitchen,349.14,545
+846,4K Monitor,Electronics,281.16,546
+847,Water Bottle,Home & Kitchen,282.41,547
+848,File Cabinet,Furniture,274.55,548
+849,Webcam HD,Electronics,288.8,549
+850,Keyboard Wrist Rest,Accessories,350.26,550
+851,Office Chair,Furniture,327.87,551
+852,Coffee Maker,Home & Kitchen,389.92,552
+853,Document Scanner,Electronics,425.77,553
+854,Desk Mat,Accessories,413.5,554
+855,Tablet Stand,Accessories,284.65,555
+856,Drawer Unit,Furniture,412.55,556
+857,Bath Towels,Home & Kitchen,244.95,557
+858,External SSD,Electronics,412.15,558
+859,Computer Speakers,Electronics,379.62,559
+860,Gaming Keyboard,Electronics,286.99,560
+861,Gaming Mouse Pad,Accessories,398.37,561
+862,Rice Cooker,Home & Kitchen,325.52,562
+863,Phone Grip,Accessories,374.03,563
+864,Toaster Oven,Home & Kitchen,239.57,564
+865,Laptop Stand,Accessories,544.36,565
+866,Mechanical Keyboard,Electronics,501.81,566
+867,Food Processor,Home & Kitchen,458.35,567
+868,Monitor Stand,Furniture,374.84,568
+869,Laptop Sleeve,Accessories,365.99,569
+870,Wireless Mouse,Electronics,414.5,570
+871,Power Strip,Electronics,305.77,571
+872,Microphone,Electronics,284.4,572
+873,Bookshelf,Furniture,415.97,573
+874,Portable Charger,Accessories,364.21,574
+875,Bluetooth Headphones,Electronics,363.39,575
+876,Noise Cancelling Headset,Electronics,369.53,576
+877,Smart Watch,Electronics,333.4,577
+878,Cable Organizer,Accessories,340.64,578
+879,Storage Containers,Home & Kitchen,493.48,579
+880,Kitchen Blender,Home & Kitchen,342.29,580
+881,Wall Clock,Home & Kitchen,344.26,581
+882,Storage Shelf,Furniture,337.17,582
+883,WiFi Router,Electronics,310.03,583
+884,Air Purifier,Home & Kitchen,270.87,584
+885,Smartphone Case,Accessories,500.76,585
+886,Standing Desk,Furniture,374.57,586
+887,Throw Pillows,Home & Kitchen,571.62,587
+888,Wireless Charger,Electronics,381.74,588
+889,Wireless Presenter,Electronics,360.55,589
+890,USB-C Hub,Electronics,577.06,590
+891,Wireless Earbuds,Electronics,282.63,591
+892,Electric Kettle,Home & Kitchen,343.18,592
+893,Desk Organizer,Accessories,363.31,593
+894,Screen Protector,Accessories,177.97,594
+895,Desk Lamp,Home & Kitchen,295.38,595
+896,4K Monitor,Electronics,261.58,596
+897,Water Bottle,Home & Kitchen,332.13,597
+898,File Cabinet,Furniture,329.43,598
+899,Webcam HD,Electronics,322.41,599
+900,Keyboard Wrist Rest,Accessories,247.27,600
+901,Office Chair,Furniture,393.42,501
+902,Coffee Maker,Home & Kitchen,324.39,502
+903,Document Scanner,Electronics,574.99,503
+904,Desk Mat,Accessories,353.22,504
+905,Tablet Stand,Accessories,352.1,505
+906,Drawer Unit,Furniture,309.49,506
+907,Bath Towels,Home & Kitchen,421.23,507
+908,External SSD,Electronics,249.46,508
+909,Computer Speakers,Electronics,363.68,509
+910,Gaming Keyboard,Electronics,347.46,510
+911,Gaming Mouse Pad,Accessories,252.01,511
+912,Rice Cooker,Home & Kitchen,227.17,512
+913,Phone Grip,Accessories,525.75,513
+914,Toaster Oven,Home & Kitchen,268.24,514
+915,Laptop Stand,Accessories,255.88,515
+916,Mechanical Keyboard,Electronics,258.38,516
+917,Food Processor,Home & Kitchen,253.9,517
+918,Monitor Stand,Furniture,272.69,518
+919,Laptop Sleeve,Accessories,398.51,519
+920,Wireless Mouse,Electronics,537.93,520
+921,Power Strip,Electronics,566.7,521
+922,Microphone,Electronics,357.95,522
+923,Bookshelf,Furniture,392.74,523
+924,Portable Charger,Accessories,416.93,524
+925,Bluetooth Headphones,Electronics,356.96,525
+926,Noise Cancelling Headset,Electronics,374.49,526
+927,Smart Watch,Electronics,276.5,527
+928,Cable Organizer,Accessories,352.05,528
+929,Storage Containers,Home & Kitchen,301.43,529
+930,Kitchen Blender,Home & Kitchen,407.3,530
+931,Wall Clock,Home & Kitchen,304.14,531
+932,Storage Shelf,Furniture,223.5,532
+933,WiFi Router,Electronics,481.89,533
+934,Air Purifier,Home & Kitchen,413.6,534
+935,Smartphone Case,Accessories,280.93,535
+936,Standing Desk,Furniture,521.07,536
+937,Throw Pillows,Home & Kitchen,325.24,537
+938,Wireless Charger,Electronics,421.19,538
+939,Wireless Presenter,Electronics,192.68,539
+940,USB-C Hub,Electronics,231.72,540
+941,Wireless Earbuds,Electronics,325.34,541
+942,Electric Kettle,Home & Kitchen,383.88,542
+943,Desk Organizer,Accessories,289.34,543
+944,Screen Protector,Accessories,427.15,544
+945,Desk Lamp,Home & Kitchen,340.92,545
+946,4K Monitor,Electronics,371.94,546
+947,Water Bottle,Home & Kitchen,373.01,547
+948,File Cabinet,Furniture,572.37,548
+949,Webcam HD,Electronics,232.65,549
+950,Keyboard Wrist Rest,Accessories,416.47,550
+951,Office Chair,Furniture,478.59,551
+952,Coffee Maker,Home & Kitchen,375.8,552
+953,Document Scanner,Electronics,361.62,553
+954,Desk Mat,Accessories,404.23,554
+955,Tablet Stand,Accessories,286.65,555
+956,Drawer Unit,Furniture,515.03,556
+957,Bath Towels,Home & Kitchen,342.46,557
+958,External SSD,Electronics,456.72,558
+959,Computer Speakers,Electronics,270.79,559
+960,Gaming Keyboard,Electronics,43.65,560
+961,Gaming Mouse Pad,Accessories,422.3,561
+962,Rice Cooker,Home & Kitchen,310,562
+963,Phone Grip,Accessories,393.36,563
+964,Toaster Oven,Home & Kitchen,272.28,564
+965,Laptop Stand,Accessories,504.7,565
+966,Mechanical Keyboard,Electronics,307.86,566
+967,Food Processor,Home & Kitchen,256.9,567
+968,Monitor Stand,Furniture,480.85,568
+969,Laptop Sleeve,Accessories,388.14,569
+970,Wireless Mouse,Electronics,565.82,570
+971,Power Strip,Electronics,356.74,571
+972,Microphone,Electronics,420.18,572
+973,Bookshelf,Furniture,427.62,573
+974,Portable Charger,Accessories,395.46,574
+975,Bluetooth Headphones,Electronics,451.37,575
+976,Noise Cancelling Headset,Electronics,327.13,576
+977,Smart Watch,Electronics,327.19,577
+978,Cable Organizer,Accessories,299.35,578
+979,Storage Containers,Home & Kitchen,328.25,579
+980,Kitchen Blender,Home & Kitchen,327.92,580
+981,Wall Clock,Home & Kitchen,244.6,581
+982,Storage Shelf,Furniture,269.57,582
+983,WiFi Router,Electronics,311.03,583
+984,Air Purifier,Home & Kitchen,393.16,584
+985,Smartphone Case,Accessories,215.89,585
+986,Standing Desk,Furniture,294.61,586
+987,Throw Pillows,Home & Kitchen,456.02,587
+988,Wireless Charger,Electronics,357.79,588
+989,Wireless Presenter,Electronics,197.5,589
+990,USB-C Hub,Electronics,293.85,590
+991,Wireless Earbuds,Electronics,243.48,591
+992,Electric Kettle,Home & Kitchen,277.24,592
+993,Desk Organizer,Accessories,134.84,593
+994,Screen Protector,Accessories,538.88,594
+995,Desk Lamp,Home & Kitchen,303.39,595
+996,4K Monitor,Electronics,365.12,596
+997,Water Bottle,Home & Kitchen,313.62,597
+998,File Cabinet,Furniture,421.96,598
+999,Webcam HD,Electronics,276.57,599
+1000,Keyboard Wrist Rest,Accessories,311.83,600
+1001,Office Chair,Furniture,312.54,501
+1002,Coffee Maker,Home & Kitchen,159.01,502
+1003,Document Scanner,Electronics,374.12,503
+1004,Desk Mat,Accessories,377.6,504
+1005,Tablet Stand,Accessories,314.81,505
+1006,Drawer Unit,Furniture,305.35,506
+1007,Bath Towels,Home & Kitchen,447,507
+1008,External SSD,Electronics,308.48,508
+1009,Computer Speakers,Electronics,369.24,509
+1010,Gaming Keyboard,Electronics,373.48,510
+1011,Gaming Mouse Pad,Accessories,265.23,511
+1012,Rice Cooker,Home & Kitchen,436.74,512
+1013,Phone Grip,Accessories,409.29,513
+1014,Toaster Oven,Home & Kitchen,438.27,514
+1015,Laptop Stand,Accessories,282.57,515
+1016,Mechanical Keyboard,Electronics,311.42,516
+1017,Food Processor,Home & Kitchen,420.26,517
+1018,Monitor Stand,Furniture,519.03,518
+1019,Laptop Sleeve,Accessories,338.1,519
+1020,Wireless Mouse,Electronics,474.03,520
+1021,Power Strip,Electronics,438.53,521
+1022,Microphone,Electronics,359.49,522
+1023,Bookshelf,Furniture,184.08,523
+1024,Portable Charger,Accessories,214.33,524
+1025,Bluetooth Headphones,Electronics,354.55,525
+1026,Noise Cancelling Headset,Electronics,411.21,526
+1027,Smart Watch,Electronics,314.65,527
+1028,Cable Organizer,Accessories,356.13,528
+1029,Storage Containers,Home & Kitchen,497.82,529
+1030,Kitchen Blender,Home & Kitchen,441,530
+1031,Wall Clock,Home & Kitchen,501.82,531
+1032,Storage Shelf,Furniture,308.54,532
+1033,WiFi Router,Electronics,308.4,533
+1034,Air Purifier,Home & Kitchen,347.15,534
+1035,Smartphone Case,Accessories,485.58,535
+1036,Standing Desk,Furniture,287.95,536
+1037,Throw Pillows,Home & Kitchen,149.63,537
+1038,Wireless Charger,Electronics,334.88,538
+1039,Wireless Presenter,Electronics,317.81,539
+1040,USB-C Hub,Electronics,264.01,540
+1041,Wireless Earbuds,Electronics,257.38,541
+1042,Electric Kettle,Home & Kitchen,356.42,542
+1043,Desk Organizer,Accessories,433.23,543
+1044,Screen Protector,Accessories,217.99,544
+1045,Desk Lamp,Home & Kitchen,281.92,545
+1046,4K Monitor,Electronics,262,546
+1047,Water Bottle,Home & Kitchen,284.45,547
+1048,File Cabinet,Furniture,387.85,548
+1049,Webcam HD,Electronics,198.83,549
+1050,Keyboard Wrist Rest,Accessories,439.81,550
+1051,Office Chair,Furniture,347.29,551
+1052,Coffee Maker,Home & Kitchen,371.99,552
+1053,Document Scanner,Electronics,332.62,553
+1054,Desk Mat,Accessories,455.76,554
+1055,Tablet Stand,Accessories,206.37,555
+1056,Drawer Unit,Furniture,447.72,556
+1057,Bath Towels,Home & Kitchen,237.38,557
+1058,External SSD,Electronics,149.21,558
+1059,Computer Speakers,Electronics,314.3,559
+1060,Gaming Keyboard,Electronics,369.47,560
+1061,Gaming Mouse Pad,Accessories,468.64,561
+1062,Rice Cooker,Home & Kitchen,412.55,562
+1063,Phone Grip,Accessories,246.7,563
+1064,Toaster Oven,Home & Kitchen,414.83,564
+1065,Laptop Stand,Accessories,317.71,565
+1066,Mechanical Keyboard,Electronics,423.43,566
+1067,Food Processor,Home & Kitchen,443.46,567
+1068,Monitor Stand,Furniture,355.72,568
+1069,Laptop Sleeve,Accessories,270.89,569
+1070,Wireless Mouse,Electronics,425.79,570
+1071,Power Strip,Electronics,270.8,571
+1072,Microphone,Electronics,325.94,572
+1073,Bookshelf,Furniture,353.63,573
+1074,Portable Charger,Accessories,217.31,574
+1075,Bluetooth Headphones,Electronics,348.64,575
+1076,Noise Cancelling Headset,Electronics,312.35,576
+1077,Smart Watch,Electronics,291.85,577
+1078,Cable Organizer,Accessories,475.27,578
+1079,Storage Containers,Home & Kitchen,284.76,579
+1080,Kitchen Blender,Home & Kitchen,364.45,580
+1081,Wall Clock,Home & Kitchen,338.32,581
+1082,Storage Shelf,Furniture,349.61,582
+1083,WiFi Router,Electronics,337.33,583
+1084,Air Purifier,Home & Kitchen,196.58,584
+1085,Smartphone Case,Accessories,224.68,585
+1086,Standing Desk,Furniture,317.53,586
+1087,Throw Pillows,Home & Kitchen,273.26,587
+1088,Wireless Charger,Electronics,331.21,588
+1089,Wireless Presenter,Electronics,418.52,589
+1090,USB-C Hub,Electronics,390.33,590
+1091,Wireless Earbuds,Electronics,453.76,591
+1092,Electric Kettle,Home & Kitchen,300.85,592
+1093,Desk Organizer,Accessories,383.05,593
+1094,Screen Protector,Accessories,333.49,594
+1095,Desk Lamp,Home & Kitchen,395.23,595
+1096,4K Monitor,Electronics,359.74,596
+1097,Water Bottle,Home & Kitchen,412.16,597
+1098,File Cabinet,Furniture,355.18,598
+1099,Webcam HD,Electronics,289.27,599
+1100,Keyboard Wrist Rest,Accessories,264.54,600
+1101,Office Chair,Furniture,420.55,501
+1102,Coffee Maker,Home & Kitchen,218.11,502
+1103,Document Scanner,Electronics,269.36,503
+1104,Desk Mat,Accessories,322.96,504
+1105,Tablet Stand,Accessories,417.5,505
+1106,Drawer Unit,Furniture,269.39,506
+1107,Bath Towels,Home & Kitchen,408.16,507
+1108,External SSD,Electronics,449.51,508
+1109,Computer Speakers,Electronics,278.2,509
+1110,Gaming Keyboard,Electronics,350.78,510
+1111,Gaming Mouse Pad,Accessories,199.15,511
+1223,Bookshelf,Furniture,422.29,523
+1112,Rice Cooker,Home & Kitchen,580.57,512
+1113,Phone Grip,Accessories,376.82,513
+1114,Toaster Oven,Home & Kitchen,302.34,514
+1115,Laptop Stand,Accessories,271.26,515
+1116,Mechanical Keyboard,Electronics,330.56,516
+1117,Food Processor,Home & Kitchen,241.79,517
+1118,Monitor Stand,Furniture,257.41,518
+1119,Laptop Sleeve,Accessories,271.13,519
+1120,Wireless Mouse,Electronics,189.43,520
+1121,Power Strip,Electronics,298.68,521
+1122,Microphone,Electronics,495.3,522
+1123,Bookshelf,Furniture,155.48,523
+1124,Portable Charger,Accessories,209.05,524
+1125,Bluetooth Headphones,Electronics,245.91,525
+1126,Noise Cancelling Headset,Electronics,441.04,526
+1127,Smart Watch,Electronics,418.04,527
+1128,Cable Organizer,Accessories,477.42,528
+1129,Storage Containers,Home & Kitchen,435.84,529
+1130,Kitchen Blender,Home & Kitchen,385.61,530
+1131,Wall Clock,Home & Kitchen,320.3,531
+1132,Storage Shelf,Furniture,442.61,532
+1133,WiFi Router,Electronics,284.59,533
+1134,Air Purifier,Home & Kitchen,359.22,534
+1135,Smartphone Case,Accessories,329.66,535
+1136,Standing Desk,Furniture,416.72,536
+1137,Throw Pillows,Home & Kitchen,231.21,537
+1138,Wireless Charger,Electronics,201.26,538
+1139,Wireless Presenter,Electronics,562.95,539
+1140,USB-C Hub,Electronics,316.71,540
+1141,Wireless Earbuds,Electronics,420.54,541
+1142,Electric Kettle,Home & Kitchen,389.54,542
+1143,Desk Organizer,Accessories,448.64,543
+1144,Screen Protector,Accessories,146.4,544
+1145,Desk Lamp,Home & Kitchen,380.91,545
+1146,4K Monitor,Electronics,427.75,546
+1147,Water Bottle,Home & Kitchen,541.99,547
+1148,File Cabinet,Furniture,273.25,548
+1149,Webcam HD,Electronics,184.27,549
+1150,Keyboard Wrist Rest,Accessories,418.64,550
+1151,Office Chair,Furniture,353.88,551
+1152,Coffee Maker,Home & Kitchen,458.63,552
+1153,Document Scanner,Electronics,441.47,553
+1154,Desk Mat,Accessories,335.34,554
+1155,Tablet Stand,Accessories,410.21,555
+1156,Drawer Unit,Furniture,224.48,556
+1157,Bath Towels,Home & Kitchen,191.02,557
+1158,External SSD,Electronics,429.21,558
+1159,Computer Speakers,Electronics,507.12,559
+1160,Gaming Keyboard,Electronics,442.92,560
+1161,Gaming Mouse Pad,Accessories,409.71,561
+1162,Rice Cooker,Home & Kitchen,518.83,562
+1163,Phone Grip,Accessories,355.72,563
+1164,Toaster Oven,Home & Kitchen,316.86,564
+1165,Laptop Stand,Accessories,719.71,565
+1166,Mechanical Keyboard,Electronics,386.99,566
+1167,Food Processor,Home & Kitchen,252.63,567
+1168,Monitor Stand,Furniture,448.95,568
+1169,Laptop Sleeve,Accessories,420.02,569
+1170,Wireless Mouse,Electronics,285.04,570
+1171,Power Strip,Electronics,510.24,571
+1172,Microphone,Electronics,405.09,572
+1173,Bookshelf,Furniture,304.69,573
+1174,Portable Charger,Accessories,352.58,574
+1175,Bluetooth Headphones,Electronics,320.89,575
+1176,Noise Cancelling Headset,Electronics,512.12,576
+1177,Smart Watch,Electronics,403.28,577
+1178,Cable Organizer,Accessories,380.43,578
+1179,Storage Containers,Home & Kitchen,417.94,579
+1180,Kitchen Blender,Home & Kitchen,405.53,580
+1181,Wall Clock,Home & Kitchen,424.71,581
+1182,Storage Shelf,Furniture,389.92,582
+1183,WiFi Router,Electronics,318.31,583
+1184,Air Purifier,Home & Kitchen,166.61,584
+1185,Smartphone Case,Accessories,438.64,585
+1186,Standing Desk,Furniture,455.25,586
+1187,Throw Pillows,Home & Kitchen,186.28,587
+1188,Wireless Charger,Electronics,322.69,588
+1189,Wireless Presenter,Electronics,485.41,589
+1190,USB-C Hub,Electronics,400.58,590
+1191,Wireless Earbuds,Electronics,371.67,591
+1192,Electric Kettle,Home & Kitchen,343.02,592
+1193,Desk Organizer,Accessories,389.42,593
+1194,Screen Protector,Accessories,132.61,594
+1195,Desk Lamp,Home & Kitchen,267.92,595
+1196,4K Monitor,Electronics,312.06,596
+1197,Water Bottle,Home & Kitchen,335.43,597
+1198,File Cabinet,Furniture,295.39,598
+1199,Webcam HD,Electronics,309.19,599
+1200,Keyboard Wrist Rest,Accessories,415.93,600
+1201,Office Chair,Furniture,388.22,501
+1202,Coffee Maker,Home & Kitchen,555.17,502
+1203,Document Scanner,Electronics,329.24,503
+1204,Desk Mat,Accessories,353.38,504
+1205,Tablet Stand,Accessories,249.08,505
+1206,Drawer Unit,Furniture,316.48,506
+1207,Bath Towels,Home & Kitchen,288.92,507
+1208,External SSD,Electronics,369.32,508
+1209,Computer Speakers,Electronics,225.46,509
+1210,Gaming Keyboard,Electronics,342.77,510
+1211,Gaming Mouse Pad,Accessories,329.55,511
+1212,Rice Cooker,Home & Kitchen,233.57,512
+1213,Phone Grip,Accessories,241.82,513
+1214,Toaster Oven,Home & Kitchen,381.28,514
+1215,Laptop Stand,Accessories,401.68,515
+1216,Mechanical Keyboard,Electronics,391.15,516
+1217,Food Processor,Home & Kitchen,250.8,517
+1218,Monitor Stand,Furniture,377.83,518
+1219,Laptop Sleeve,Accessories,482.65,519
+1220,Wireless Mouse,Electronics,356.84,520
+1221,Power Strip,Electronics,409.06,521
+1222,Microphone,Electronics,498.88,522
+1224,Portable Charger,Accessories,325.35,524
+1225,Bluetooth Headphones,Electronics,209.91,525
+1226,Noise Cancelling Headset,Electronics,369.71,526
+1227,Smart Watch,Electronics,480.92,527
+1228,Cable Organizer,Accessories,438.46,528
+1229,Storage Containers,Home & Kitchen,234.69,529
+1230,Kitchen Blender,Home & Kitchen,393.33,530
+1231,Wall Clock,Home & Kitchen,456.12,531
+1232,Storage Shelf,Furniture,285.17,532
+1233,WiFi Router,Electronics,476.22,533
+1234,Air Purifier,Home & Kitchen,379.87,534
+1235,Smartphone Case,Accessories,191.91,535
+1236,Standing Desk,Furniture,170.72,536
+1237,Throw Pillows,Home & Kitchen,351.97,537
+1238,Wireless Charger,Electronics,359.74,538
+1239,Wireless Presenter,Electronics,230.57,539
+1240,USB-C Hub,Electronics,336.36,540
+1241,Wireless Earbuds,Electronics,361.94,541
+1242,Electric Kettle,Home & Kitchen,326.65,542
+1243,Desk Organizer,Accessories,319.81,543
+1244,Screen Protector,Accessories,600.87,544
+1245,Desk Lamp,Home & Kitchen,190.35,545
+1246,4K Monitor,Electronics,441.16,546
+1247,Water Bottle,Home & Kitchen,229.71,547
+1248,File Cabinet,Furniture,568.45,548
+1249,Webcam HD,Electronics,343.53,549
+1250,Keyboard Wrist Rest,Accessories,457.58,550
+1251,Office Chair,Furniture,306.17,551
+1252,Coffee Maker,Home & Kitchen,390.17,552
+1253,Document Scanner,Electronics,286.81,553
+1254,Desk Mat,Accessories,283.88,554
+1255,Tablet Stand,Accessories,194.12,555
+1256,Drawer Unit,Furniture,315.89,556
+1257,Bath Towels,Home & Kitchen,253.06,557
+1258,External SSD,Electronics,435.17,558
+1259,Computer Speakers,Electronics,336.24,559
+1260,Gaming Keyboard,Electronics,409.16,560
+1261,Gaming Mouse Pad,Accessories,418.52,561
+1262,Rice Cooker,Home & Kitchen,448.06,562
+1263,Phone Grip,Accessories,163.71,563
+1264,Toaster Oven,Home & Kitchen,288.94,564
+1265,Laptop Stand,Accessories,242.89,565
+1266,Mechanical Keyboard,Electronics,362.06,566
+1267,Food Processor,Home & Kitchen,292.15,567
+1268,Monitor Stand,Furniture,316.76,568
+1269,Laptop Sleeve,Accessories,248.77,569
+1270,Wireless Mouse,Electronics,303.32,570
+1271,Power Strip,Electronics,463.84,571
+1272,Microphone,Electronics,279.57,572
+1273,Bookshelf,Furniture,410.18,573
+1274,Portable Charger,Accessories,266.39,574
+1275,Bluetooth Headphones,Electronics,319.47,575
+1276,Noise Cancelling Headset,Electronics,455.7,576
+1277,Smart Watch,Electronics,351.59,577
+1278,Cable Organizer,Accessories,342.33,578
+1279,Storage Containers,Home & Kitchen,494.1,579
+1280,Kitchen Blender,Home & Kitchen,278.77,580
+1281,Wall Clock,Home & Kitchen,505.13,581
+1282,Storage Shelf,Furniture,362.7,582
+1283,WiFi Router,Electronics,368.69,583
+1284,Air Purifier,Home & Kitchen,277.55,584
+1285,Smartphone Case,Accessories,278.43,585
+1286,Standing Desk,Furniture,326.45,586
+1287,Throw Pillows,Home & Kitchen,384.08,587
+1288,Wireless Charger,Electronics,343.05,588
+1289,Wireless Presenter,Electronics,412.29,589
+1290,USB-C Hub,Electronics,296.29,590
+1291,Wireless Earbuds,Electronics,243.45,591
+1292,Electric Kettle,Home & Kitchen,520.78,592
+1293,Desk Organizer,Accessories,306.98,593
+1294,Screen Protector,Accessories,496.32,594
+1295,Desk Lamp,Home & Kitchen,310.15,595
+1296,4K Monitor,Electronics,421.11,596
+1297,Water Bottle,Home & Kitchen,335.46,597
+1298,File Cabinet,Furniture,299.09,598
+1299,Webcam HD,Electronics,393.14,599
+1300,Keyboard Wrist Rest,Accessories,190.76,600
+1301,Office Chair,Furniture,270.97,501
+1302,Coffee Maker,Home & Kitchen,310.77,502
+1303,Document Scanner,Electronics,437.02,503
+1304,Desk Mat,Accessories,117.4,504
+1305,Tablet Stand,Accessories,429.8,505
+1306,Drawer Unit,Furniture,272.36,506
+1307,Bath Towels,Home & Kitchen,583.03,507
+1308,External SSD,Electronics,338.89,508
+1309,Computer Speakers,Electronics,353.61,509
+1310,Gaming Keyboard,Electronics,177.88,510
+1311,Gaming Mouse Pad,Accessories,380.07,511
+1312,Rice Cooker,Home & Kitchen,459.49,512
+1313,Phone Grip,Accessories,370.27,513
+1314,Toaster Oven,Home & Kitchen,387.51,514
+1315,Laptop Stand,Accessories,463.1,515
+1316,Mechanical Keyboard,Electronics,287,516
+1317,Food Processor,Home & Kitchen,408.57,517
+1318,Monitor Stand,Furniture,345.97,518
+1319,Laptop Sleeve,Accessories,267.5,519
+1320,Wireless Mouse,Electronics,357.06,520
+1321,Power Strip,Electronics,515.03,521
+1322,Microphone,Electronics,384.91,522
+1323,Bookshelf,Furniture,336.46,523
+1324,Portable Charger,Accessories,342.21,524
+1325,Bluetooth Headphones,Electronics,359.64,525
+1326,Noise Cancelling Headset,Electronics,294.57,526
+1327,Smart Watch,Electronics,249.33,527
+1328,Cable Organizer,Accessories,310.72,528
+1329,Storage Containers,Home & Kitchen,375.05,529
+1330,Kitchen Blender,Home & Kitchen,379.1,530
+1331,Wall Clock,Home & Kitchen,268.8,531
+1332,Storage Shelf,Furniture,291.9,532
+1333,WiFi Router,Electronics,362.57,533
+1334,Air Purifier,Home & Kitchen,503.62,534
+1335,Smartphone Case,Accessories,301.01,535
+1336,Standing Desk,Furniture,414.59,536
+1337,Throw Pillows,Home & Kitchen,380.7,537
+1338,Wireless Charger,Electronics,531.77,538
+1339,Wireless Presenter,Electronics,363.13,539
+1340,USB-C Hub,Electronics,598.27,540
+1341,Wireless Earbuds,Electronics,220.93,541
+1342,Electric Kettle,Home & Kitchen,342.35,542
+1343,Desk Organizer,Accessories,237.93,543
+1344,Screen Protector,Accessories,423.59,544
+1345,Desk Lamp,Home & Kitchen,289.24,545
+1346,4K Monitor,Electronics,331.33,546
+1347,Water Bottle,Home & Kitchen,348.65,547
+1348,File Cabinet,Furniture,204.85,548
+1349,Webcam HD,Electronics,303.1,549
+1350,Keyboard Wrist Rest,Accessories,366.37,550
+1351,Office Chair,Furniture,242.79,551
+1352,Coffee Maker,Home & Kitchen,388.87,552
+1353,Document Scanner,Electronics,197.66,553
+1354,Desk Mat,Accessories,304.8,554
+1355,Tablet Stand,Accessories,398.26,555
+1356,Drawer Unit,Furniture,261.91,556
+1357,Bath Towels,Home & Kitchen,349.6,557
+1358,External SSD,Electronics,185.8,558
+1359,Computer Speakers,Electronics,232.16,559
+1360,Gaming Keyboard,Electronics,337.36,560
+1361,Gaming Mouse Pad,Accessories,375.71,561
+1362,Rice Cooker,Home & Kitchen,536.16,562
+1363,Phone Grip,Accessories,424.7,563
+1364,Toaster Oven,Home & Kitchen,394.55,564
+1365,Laptop Stand,Accessories,251.96,565
+1366,Mechanical Keyboard,Electronics,544.51,566
+1367,Food Processor,Home & Kitchen,397.11,567
+1368,Monitor Stand,Furniture,251.62,568
+1369,Laptop Sleeve,Accessories,422.55,569
+1370,Wireless Mouse,Electronics,218.77,570
+1371,Power Strip,Electronics,292.63,571
+1372,Microphone,Electronics,304.18,572
+1373,Bookshelf,Furniture,450.75,573
+1374,Portable Charger,Accessories,275.92,574
+1375,Bluetooth Headphones,Electronics,345.84,575
+1376,Noise Cancelling Headset,Electronics,323.92,576
+1377,Smart Watch,Electronics,399.77,577
+1378,Cable Organizer,Accessories,225.33,578
+1379,Storage Containers,Home & Kitchen,405.64,579
+1380,Kitchen Blender,Home & Kitchen,270.99,580
+1381,Wall Clock,Home & Kitchen,234.37,581
+1382,Storage Shelf,Furniture,202.66,582
+1383,WiFi Router,Electronics,209.53,583
+1384,Air Purifier,Home & Kitchen,237.79,584
+1385,Smartphone Case,Accessories,287.86,585
+1386,Standing Desk,Furniture,473.26,586
+1387,Throw Pillows,Home & Kitchen,264.76,587
+1388,Wireless Charger,Electronics,418.39,588
+1389,Wireless Presenter,Electronics,363.39,589
+1390,USB-C Hub,Electronics,387.93,590
+1391,Wireless Earbuds,Electronics,290.82,591
+1392,Electric Kettle,Home & Kitchen,262.76,592
+1393,Desk Organizer,Accessories,456.03,593
+1394,Screen Protector,Accessories,552.34,594
+1395,Desk Lamp,Home & Kitchen,270.58,595
+1396,4K Monitor,Electronics,279.84,596
+1397,Water Bottle,Home & Kitchen,295.39,597
+1398,File Cabinet,Furniture,281.86,598
+1399,Webcam HD,Electronics,471.3,599
+1400,Keyboard Wrist Rest,Accessories,407.23,600
+1401,Office Chair,Furniture,409.25,501
+1402,Coffee Maker,Home & Kitchen,499.41,502
+1403,Document Scanner,Electronics,360.3,503
+1404,Desk Mat,Accessories,404.98,504
+1405,Tablet Stand,Accessories,405.54,505
+1406,Drawer Unit,Furniture,626.39,506
+1407,Bath Towels,Home & Kitchen,324.26,507
+1408,External SSD,Electronics,404.98,508
+1409,Computer Speakers,Electronics,270.66,509
+1410,Gaming Keyboard,Electronics,375.32,510
+1411,Gaming Mouse Pad,Accessories,352.59,511
+1412,Rice Cooker,Home & Kitchen,472.14,512
+1413,Phone Grip,Accessories,315.5,513
+1414,Toaster Oven,Home & Kitchen,286.09,514
+1415,Laptop Stand,Accessories,454.62,515
+1416,Mechanical Keyboard,Electronics,691,516
+1417,Food Processor,Home & Kitchen,353.75,517
+1418,Monitor Stand,Furniture,248.13,518
+1419,Laptop Sleeve,Accessories,341.77,519
+1420,Wireless Mouse,Electronics,373.62,520
+1421,Power Strip,Electronics,472.07,521
+1422,Microphone,Electronics,289.85,522
+1423,Bookshelf,Furniture,367.51,523
+1424,Portable Charger,Accessories,527.94,524
+1425,Bluetooth Headphones,Electronics,319.11,525
+1426,Noise Cancelling Headset,Electronics,422.57,526
+1427,Smart Watch,Electronics,338.64,527
+1428,Cable Organizer,Accessories,461.91,528
+1429,Storage Containers,Home & Kitchen,332.53,529
+1430,Kitchen Blender,Home & Kitchen,574.81,530
+1431,Wall Clock,Home & Kitchen,297.2,531
+1432,Storage Shelf,Furniture,383.43,532
+1433,WiFi Router,Electronics,245.84,533
+1434,Air Purifier,Home & Kitchen,504.93,534
+1435,Smartphone Case,Accessories,373.06,535
+1436,Standing Desk,Furniture,371.1,536
+1437,Throw Pillows,Home & Kitchen,330.48,537
+1438,Wireless Charger,Electronics,263.54,538
+1439,Wireless Presenter,Electronics,391.69,539
+1440,USB-C Hub,Electronics,352.32,540
+1441,Wireless Earbuds,Electronics,504.73,541
+1442,Electric Kettle,Home & Kitchen,295.99,542
+1443,Desk Organizer,Accessories,456.94,543
+1444,Screen Protector,Accessories,238.79,544
+1445,Desk Lamp,Home & Kitchen,472.02,545
+1446,4K Monitor,Electronics,227.07,546
+1447,Water Bottle,Home & Kitchen,541.06,547
+1448,File Cabinet,Furniture,383.36,548
+1449,Webcam HD,Electronics,257.02,549
+1450,Keyboard Wrist Rest,Accessories,397.55,550
+1451,Office Chair,Furniture,423.34,551
+1452,Coffee Maker,Home & Kitchen,319.55,552
+1453,Document Scanner,Electronics,371.56,553
+1454,Desk Mat,Accessories,296.11,554
+1455,Tablet Stand,Accessories,337.16,555
+1456,Drawer Unit,Furniture,339,556
+1457,Bath Towels,Home & Kitchen,355.41,557
+1458,External SSD,Electronics,385.06,558
+1459,Computer Speakers,Electronics,577.65,559
+1460,Gaming Keyboard,Electronics,414.25,560
+1461,Gaming Mouse Pad,Accessories,274.82,561
+1462,Rice Cooker,Home & Kitchen,441.96,562
+1463,Phone Grip,Accessories,313.12,563
+1464,Toaster Oven,Home & Kitchen,439.73,564
+1465,Laptop Stand,Accessories,392.67,565
+1466,Mechanical Keyboard,Electronics,287.84,566
+1467,Food Processor,Home & Kitchen,315.11,567
+1468,Monitor Stand,Furniture,388.18,568
+1469,Laptop Sleeve,Accessories,312.54,569
+1470,Wireless Mouse,Electronics,204.57,570
+1471,Power Strip,Electronics,250.61,571
+1472,Microphone,Electronics,315.23,572
+1473,Bookshelf,Furniture,317.44,573
+1474,Portable Charger,Accessories,347.75,574
+1475,Bluetooth Headphones,Electronics,477.85,575
+1476,Noise Cancelling Headset,Electronics,286.56,576
+1477,Smart Watch,Electronics,476.46,577
+1478,Cable Organizer,Accessories,496.25,578
+1479,Storage Containers,Home & Kitchen,515.8,579
+1480,Kitchen Blender,Home & Kitchen,349.59,580
+1481,Wall Clock,Home & Kitchen,344.02,581
+1482,Storage Shelf,Furniture,349.16,582
+1483,WiFi Router,Electronics,525.03,583
+1484,Air Purifier,Home & Kitchen,396.73,584
+1485,Smartphone Case,Accessories,332.86,585
+1486,Standing Desk,Furniture,432.21,586
+1487,Throw Pillows,Home & Kitchen,184.28,587
+1488,Wireless Charger,Electronics,628.33,588
+1489,Wireless Presenter,Electronics,473.81,589
+1490,USB-C Hub,Electronics,392.74,590
+1491,Wireless Earbuds,Electronics,339.86,591
+1492,Electric Kettle,Home & Kitchen,258.17,592
+1493,Desk Organizer,Accessories,251.37,593
+1494,Screen Protector,Accessories,305.94,594
+1495,Desk Lamp,Home & Kitchen,410.89,595
+1496,4K Monitor,Electronics,381.26,596
+1497,Water Bottle,Home & Kitchen,356.49,597
+1498,File Cabinet,Furniture,470.75,598
+1499,Webcam HD,Electronics,343.75,599
+1500,Keyboard Wrist Rest,Accessories,317.32,600
+1501,Office Chair,Furniture,379.41,501
+1502,Coffee Maker,Home & Kitchen,343.58,502
+1503,Document Scanner,Electronics,351.06,503
+1504,Desk Mat,Accessories,208.14,504
+1505,Tablet Stand,Accessories,413.28,505
+1506,Drawer Unit,Furniture,216.73,506
+1507,Bath Towels,Home & Kitchen,276.15,507
+1508,External SSD,Electronics,279.69,508
+1509,Computer Speakers,Electronics,436.08,509
+1510,Gaming Keyboard,Electronics,296.1,510
+1511,Gaming Mouse Pad,Accessories,431.31,511
+1512,Rice Cooker,Home & Kitchen,346.91,512
+1513,Phone Grip,Accessories,324.38,513
+1514,Toaster Oven,Home & Kitchen,469.3,514
+1515,Laptop Stand,Accessories,304.49,515
+1516,Mechanical Keyboard,Electronics,374.89,516
+1517,Food Processor,Home & Kitchen,473.76,517
+1518,Monitor Stand,Furniture,521.56,518
+1519,Laptop Sleeve,Accessories,303.51,519
+1520,Wireless Mouse,Electronics,351.32,520
+1521,Power Strip,Electronics,352.83,521
+1522,Microphone,Electronics,270.3,522
+1523,Bookshelf,Furniture,407.01,523
+1524,Portable Charger,Accessories,558.72,524
+1525,Bluetooth Headphones,Electronics,297.3,525
+1526,Noise Cancelling Headset,Electronics,279.39,526
+1527,Smart Watch,Electronics,316.94,527
+1528,Cable Organizer,Accessories,284.46,528
+1529,Storage Containers,Home & Kitchen,369.77,529
+1530,Kitchen Blender,Home & Kitchen,387.11,530
+1531,Wall Clock,Home & Kitchen,437.55,531
+1532,Storage Shelf,Furniture,273.72,532
+1533,WiFi Router,Electronics,385.92,533
+1534,Air Purifier,Home & Kitchen,450.01,534
+1535,Smartphone Case,Accessories,394.95,535
+1536,Standing Desk,Furniture,295.76,536
+1537,Throw Pillows,Home & Kitchen,255.41,537
+1538,Wireless Charger,Electronics,166.06,538
+1539,Wireless Presenter,Electronics,357.71,539
+1540,USB-C Hub,Electronics,349.27,540
+1541,Wireless Earbuds,Electronics,422.77,541
+1542,Electric Kettle,Home & Kitchen,277.44,542
+1543,Desk Organizer,Accessories,369.79,543
+1544,Screen Protector,Accessories,388.86,544
+1545,Desk Lamp,Home & Kitchen,313.16,545
+1546,4K Monitor,Electronics,396.84,546
+1547,Water Bottle,Home & Kitchen,338.49,547
+1548,File Cabinet,Furniture,397.13,548
+1549,Webcam HD,Electronics,767.43,549
+1550,Keyboard Wrist Rest,Accessories,447.18,550
+1551,Office Chair,Furniture,288.67,551
+1552,Coffee Maker,Home & Kitchen,312.44,552
+1553,Document Scanner,Electronics,490.24,553
+1554,Desk Mat,Accessories,732.92,554
+1555,Tablet Stand,Accessories,366,555
+1556,Drawer Unit,Furniture,495.17,556
+1557,Bath Towels,Home & Kitchen,308.76,557
+1558,External SSD,Electronics,392.45,558
+1559,Computer Speakers,Electronics,341.13,559
+1560,Gaming Keyboard,Electronics,261.8,560
+1561,Gaming Mouse Pad,Accessories,388.17,561
+1562,Rice Cooker,Home & Kitchen,304.55,562
+1563,Phone Grip,Accessories,390.96,563
+1564,Toaster Oven,Home & Kitchen,325.79,564
+1565,Laptop Stand,Accessories,265.2,565
+1566,Mechanical Keyboard,Electronics,328.25,566
+1567,Food Processor,Home & Kitchen,513.99,567
+1568,Monitor Stand,Furniture,325.53,568
+1569,Laptop Sleeve,Accessories,258.08,569
+1570,Wireless Mouse,Electronics,231.2,570
+1571,Power Strip,Electronics,315.43,571
+1572,Microphone,Electronics,416.06,572
+1573,Bookshelf,Furniture,305.59,573
+1574,Portable Charger,Accessories,314.65,574
+1575,Bluetooth Headphones,Electronics,580.99,575
+1576,Noise Cancelling Headset,Electronics,349.76,576
+1577,Smart Watch,Electronics,627.05,577
+1578,Cable Organizer,Accessories,352.37,578
+1579,Storage Containers,Home & Kitchen,271.21,579
+1580,Kitchen Blender,Home & Kitchen,260.19,580
+1581,Wall Clock,Home & Kitchen,306.19,581
+1582,Storage Shelf,Furniture,277.82,582
+1583,WiFi Router,Electronics,624.89,583
+1584,Air Purifier,Home & Kitchen,459.61,584
+1585,Smartphone Case,Accessories,396.07,585
+1586,Standing Desk,Furniture,399.47,586
+1587,Throw Pillows,Home & Kitchen,313.06,587
+1588,Wireless Charger,Electronics,351.26,588
+1589,Wireless Presenter,Electronics,278.29,589
+1590,USB-C Hub,Electronics,498.51,590
+1591,Wireless Earbuds,Electronics,460.58,591
+1592,Electric Kettle,Home & Kitchen,287.09,592
+1593,Desk Organizer,Accessories,384.76,593
+1594,Screen Protector,Accessories,264.87,594
+1595,Desk Lamp,Home & Kitchen,325.95,595
+1596,4K Monitor,Electronics,472.28,596
+1597,Water Bottle,Home & Kitchen,310.95,597
+1598,File Cabinet,Furniture,357.26,598
+1599,Webcam HD,Electronics,423.47,599
+1600,Keyboard Wrist Rest,Accessories,420.84,600
+1601,Office Chair,Furniture,396.35,501
+1602,Coffee Maker,Home & Kitchen,517.66,502
+1603,Document Scanner,Electronics,389.14,503
+1604,Desk Mat,Accessories,440.23,504
+1605,Tablet Stand,Accessories,346.93,505
+1606,Drawer Unit,Furniture,287.87,506
+1607,Bath Towels,Home & Kitchen,269.24,507
+1608,External SSD,Electronics,393.55,508
+1609,Computer Speakers,Electronics,231.44,509
+1610,Gaming Keyboard,Electronics,376.56,510
+1611,Gaming Mouse Pad,Accessories,634.48,511
+1612,Rice Cooker,Home & Kitchen,263,512
+1613,Phone Grip,Accessories,353.22,513
+1614,Toaster Oven,Home & Kitchen,242.12,514
+1615,Laptop Stand,Accessories,511.01,515
+1616,Mechanical Keyboard,Electronics,408.86,516
+1617,Food Processor,Home & Kitchen,237.26,517
+1618,Monitor Stand,Furniture,365.1,518
+1619,Laptop Sleeve,Accessories,384.29,519
+1620,Wireless Mouse,Electronics,484.75,520
+1621,Power Strip,Electronics,457.36,521
+1622,Microphone,Electronics,276.69,522
+1623,Bookshelf,Furniture,408.91,523
+1624,Portable Charger,Accessories,182.81,524
+1625,Bluetooth Headphones,Electronics,391.8,525
+1626,Noise Cancelling Headset,Electronics,496.03,526
+1627,Smart Watch,Electronics,458.45,527
+1628,Cable Organizer,Accessories,256.68,528
+1629,Storage Containers,Home & Kitchen,465.26,529
+1630,Kitchen Blender,Home & Kitchen,308.5,530
+1631,Wall Clock,Home & Kitchen,324.82,531
+1632,Storage Shelf,Furniture,416.76,532
+1633,WiFi Router,Electronics,392.13,533
+1634,Air Purifier,Home & Kitchen,437.2,534
+1635,Smartphone Case,Accessories,248.37,535
+1636,Standing Desk,Furniture,349.65,536
+1637,Throw Pillows,Home & Kitchen,266.99,537
+1638,Wireless Charger,Electronics,341.8,538
+1639,Wireless Presenter,Electronics,423.46,539
+1640,USB-C Hub,Electronics,327.41,540
+1641,Wireless Earbuds,Electronics,312.12,541
+1642,Electric Kettle,Home & Kitchen,304.29,542
+1643,Desk Organizer,Accessories,420.26,543
+1644,Screen Protector,Accessories,295.69,544
+1645,Desk Lamp,Home & Kitchen,334.64,545
+1646,4K Monitor,Electronics,378.83,546
+1647,Water Bottle,Home & Kitchen,288.89,547
+1648,File Cabinet,Furniture,373.87,548
+1649,Webcam HD,Electronics,234.54,549
+1650,Keyboard Wrist Rest,Accessories,196.41,550
+1651,Office Chair,Furniture,474.26,551
+1652,Coffee Maker,Home & Kitchen,234.52,552
+1653,Document Scanner,Electronics,221.55,553
+1654,Desk Mat,Accessories,358.51,554
+1655,Tablet Stand,Accessories,310.58,555
+1656,Drawer Unit,Furniture,266.92,556
+1657,Bath Towels,Home & Kitchen,283.95,557
+1658,External SSD,Electronics,368.15,558
+1659,Computer Speakers,Electronics,230.75,559
+1660,Gaming Keyboard,Electronics,231.25,560
+1661,Gaming Mouse Pad,Accessories,526.49,561
+1662,Rice Cooker,Home & Kitchen,313.58,562
+1663,Phone Grip,Accessories,263.29,563
+1664,Toaster Oven,Home & Kitchen,548.01,564
+1665,Laptop Stand,Accessories,390.71,565
+1666,Mechanical Keyboard,Electronics,806.3,566
+1667,Food Processor,Home & Kitchen,488.21,567
+1668,Monitor Stand,Furniture,478.46,568
+1669,Laptop Sleeve,Accessories,391.6,569
+1670,Wireless Mouse,Electronics,436.86,570
+1671,Power Strip,Electronics,324.03,571
+1672,Microphone,Electronics,596.78,572
+1673,Bookshelf,Furniture,225.03,573
+1674,Portable Charger,Accessories,416.1,574
+1675,Bluetooth Headphones,Electronics,419.83,575
+1676,Noise Cancelling Headset,Electronics,364.48,576
+1677,Smart Watch,Electronics,454.79,577
+1678,Cable Organizer,Accessories,287.58,578
+1679,Storage Containers,Home & Kitchen,331.23,579
+1680,Kitchen Blender,Home & Kitchen,301.9,580
+1681,Wall Clock,Home & Kitchen,416.3,581
+1682,Storage Shelf,Furniture,341.49,582
+1683,WiFi Router,Electronics,409.14,583
+1684,Air Purifier,Home & Kitchen,242.15,584
+1685,Smartphone Case,Accessories,386.92,585
+1686,Standing Desk,Furniture,370.85,586
+1687,Throw Pillows,Home & Kitchen,335.53,587
+1688,Wireless Charger,Electronics,400.77,588
+1689,Wireless Presenter,Electronics,291.98,589
+1690,USB-C Hub,Electronics,309.89,590
+1691,Wireless Earbuds,Electronics,623.32,591
+1692,Electric Kettle,Home & Kitchen,256.25,592
+1693,Desk Organizer,Accessories,314.08,593
+1694,Screen Protector,Accessories,285.15,594
+1695,Desk Lamp,Home & Kitchen,343.44,595
+1696,4K Monitor,Electronics,385.04,596
+1697,Water Bottle,Home & Kitchen,234.65,597
+1698,File Cabinet,Furniture,331.63,598
+1699,Webcam HD,Electronics,426.55,599
+1700,Keyboard Wrist Rest,Accessories,274.35,600
+1701,Office Chair,Furniture,421.11,501
+1702,Coffee Maker,Home & Kitchen,489.17,502
+1703,Document Scanner,Electronics,286.38,503
+1704,Desk Mat,Accessories,251.91,504
+1705,Tablet Stand,Accessories,459.84,505
+1706,Drawer Unit,Furniture,411.69,506
+1707,Bath Towels,Home & Kitchen,396.98,507
+1708,External SSD,Electronics,329.16,508
+1709,Computer Speakers,Electronics,432.03,509
+1710,Gaming Keyboard,Electronics,256.81,510
+1711,Gaming Mouse Pad,Accessories,512.88,511
+1712,Rice Cooker,Home & Kitchen,521.25,512
+1713,Phone Grip,Accessories,459.06,513
+1714,Toaster Oven,Home & Kitchen,381.11,514
+1715,Laptop Stand,Accessories,427.49,515
+1716,Mechanical Keyboard,Electronics,307.4,516
+1717,Food Processor,Home & Kitchen,232.82,517
+1718,Monitor Stand,Furniture,322.88,518
+1719,Laptop Sleeve,Accessories,260.54,519
+1720,Wireless Mouse,Electronics,687.68,520
+1721,Power Strip,Electronics,449.2,521
+1722,Microphone,Electronics,337.22,522
+1723,Bookshelf,Furniture,559.3,523
+1724,Portable Charger,Accessories,324.45,524
+1725,Bluetooth Headphones,Electronics,370.88,525
+1726,Noise Cancelling Headset,Electronics,304.15,526
+1727,Smart Watch,Electronics,342.63,527
+1728,Cable Organizer,Accessories,227.2,528
+1729,Storage Containers,Home & Kitchen,297.89,529
+1730,Kitchen Blender,Home & Kitchen,365.53,530
+1731,Wall Clock,Home & Kitchen,,531
+1732,Storage Shelf,Furniture,314.08,532
+1733,WiFi Router,Electronics,330.72,533
+1734,Air Purifier,Home & Kitchen,315.74,534
+1735,Smartphone Case,Accessories,385.11,535
+1736,Standing Desk,Furniture,271.13,536
+1737,Throw Pillows,Home & Kitchen,252.57,537
+1738,Wireless Charger,Electronics,335.92,538
+1739,Wireless Presenter,Electronics,326.03,539
+1740,USB-C Hub,Electronics,338.63,540
+1741,Wireless Earbuds,Electronics,430.15,541
+1742,Electric Kettle,Home & Kitchen,528.49,542
+1743,Desk Organizer,Accessories,303.73,543
+1744,Screen Protector,Accessories,335.73,544
+1745,Desk Lamp,Home & Kitchen,427.71,545
+1746,4K Monitor,Electronics,376.33,546
+1747,Water Bottle,Home & Kitchen,464.49,547
+1748,File Cabinet,Furniture,383.59,548
+1749,Webcam HD,Electronics,392.28,549
+1750,Keyboard Wrist Rest,Accessories,235.8,550
+1751,Office Chair,Furniture,318.21,551
+1752,Coffee Maker,Home & Kitchen,290.81,552
+1753,Document Scanner,Electronics,336.96,553
+1754,Desk Mat,Accessories,346.51,554
+1755,Tablet Stand,Accessories,405.85,555
+1756,Drawer Unit,Furniture,490.93,556
+1757,Bath Towels,Home & Kitchen,154.93,557
+1758,External SSD,Electronics,351.82,558
+1759,Computer Speakers,Electronics,448.46,559
+1760,Gaming Keyboard,Electronics,312.77,560
+1761,Gaming Mouse Pad,Accessories,282.97,561
+1762,Rice Cooker,Home & Kitchen,237.94,562
+1763,Phone Grip,Accessories,300,563
+1764,Toaster Oven,Home & Kitchen,295.04,564
+1765,Laptop Stand,Accessories,522.35,565
+1766,Mechanical Keyboard,Electronics,234.58,566
+1767,Food Processor,Home & Kitchen,401.73,567
+1768,Monitor Stand,Furniture,321.66,568
+1769,Laptop Sleeve,Accessories,145.83,569
+1770,Wireless Mouse,Electronics,397.9,570
+1771,Power Strip,Electronics,308.21,571
+1772,Microphone,Electronics,348.18,572
+1773,Bookshelf,Furniture,379.71,573
+1774,Portable Charger,Accessories,250.75,574
+1775,Bluetooth Headphones,Electronics,376.34,575
+1776,Noise Cancelling Headset,Electronics,231.48,576
+1777,Smart Watch,Electronics,326.81,577
+1778,Cable Organizer,Accessories,373.27,578
+1779,Storage Containers,Home & Kitchen,421.14,579
+1780,Kitchen Blender,Home & Kitchen,382.94,580
+1781,Wall Clock,Home & Kitchen,259.25,581
+1782,Storage Shelf,Furniture,345.34,582
+1783,WiFi Router,Electronics,420.72,583
+1784,Air Purifier,Home & Kitchen,341.03,584
+1785,Smartphone Case,Accessories,343.81,585
+1786,Standing Desk,Furniture,330.9,586
+1787,Throw Pillows,Home & Kitchen,212.62,587
+1788,Wireless Charger,Electronics,319.07,588
+1789,Wireless Presenter,Electronics,364.82,589
+1790,USB-C Hub,Electronics,308.55,590
+1791,Wireless Earbuds,Electronics,404.83,591
+1792,Electric Kettle,Home & Kitchen,303.13,592
+1793,Desk Organizer,Accessories,493.74,593
+1794,Screen Protector,Accessories,347.48,594
+1795,Desk Lamp,Home & Kitchen,275.47,595
+1796,4K Monitor,Electronics,293.59,596
+1797,Water Bottle,Home & Kitchen,244.89,597
+1798,File Cabinet,Furniture,476.34,598
+1799,Webcam HD,Electronics,296,599
+1800,Keyboard Wrist Rest,Accessories,,600
+1801,Office Chair,Furniture,429.76,501
+1802,Coffee Maker,Home & Kitchen,611.63,502
+1803,Document Scanner,Electronics,282.32,503
+1804,Desk Mat,Accessories,94.44,504
+1805,Tablet Stand,Accessories,501.8,505
+1806,Drawer Unit,Furniture,352.64,506
+1807,Bath Towels,Home & Kitchen,336.38,507
+1808,External SSD,Electronics,320.88,508
+1809,Computer Speakers,Electronics,423.23,509
+1810,Gaming Keyboard,Electronics,448.54,510
+1811,Gaming Mouse Pad,Accessories,391.47,511
+1812,Rice Cooker,Home & Kitchen,355.52,512
+1813,Phone Grip,Accessories,361.41,513
+1814,Toaster Oven,Home & Kitchen,445.35,514
+1815,Laptop Stand,Accessories,219.7,515
+1816,Mechanical Keyboard,Electronics,386.38,516
+1817,Food Processor,Home & Kitchen,299.92,517
+1818,Monitor Stand,Furniture,441.23,518
+1819,Laptop Sleeve,Accessories,414.07,519
+1820,Wireless Mouse,Electronics,284.67,520
+1821,Power Strip,Electronics,391.69,521
+1822,Microphone,Electronics,243.98,522
+1823,Bookshelf,Furniture,322.79,523
+1824,Portable Charger,Accessories,320.15,524
+1825,Bluetooth Headphones,Electronics,197.13,525
+1826,Noise Cancelling Headset,Electronics,388.55,526
+1827,Smart Watch,Electronics,341.58,527
+1828,Cable Organizer,Accessories,418.95,528
+1829,Storage Containers,Home & Kitchen,409.95,529
+1830,Kitchen Blender,Home & Kitchen,240.01,530
+1831,Wall Clock,Home & Kitchen,276.37,531
+1832,Storage Shelf,Furniture,371.77,532
+1833,WiFi Router,Electronics,248.79,533
+1834,Air Purifier,Home & Kitchen,389.02,534
+1835,Smartphone Case,Accessories,322.46,535
+1836,Standing Desk,Furniture,272.77,536
+1837,Throw Pillows,Home & Kitchen,463.09,537
+1838,Wireless Charger,Electronics,328.35,538
+1839,Wireless Presenter,Electronics,335.48,539
+1840,USB-C Hub,Electronics,551.14,540
+1841,Wireless Earbuds,Electronics,541.82,541
+1842,Electric Kettle,Home & Kitchen,350.87,542
+1843,Desk Organizer,Accessories,234.36,543
+1844,Screen Protector,Accessories,387.41,544
+1845,Desk Lamp,Home & Kitchen,384.92,545
+1846,4K Monitor,Electronics,242.42,546
+1847,Water Bottle,Home & Kitchen,596.77,547
+1848,File Cabinet,Furniture,256.37,548
+1849,Webcam HD,Electronics,363.12,549
+1850,Keyboard Wrist Rest,Accessories,423.48,550
+1851,Office Chair,Furniture,468.37,551
+1852,Coffee Maker,Home & Kitchen,318.82,552
+1853,Document Scanner,Electronics,356.11,553
+1854,Desk Mat,Accessories,334.05,554
+1855,Tablet Stand,Accessories,411.75,555
+1856,Drawer Unit,Furniture,296.89,556
+1857,Bath Towels,Home & Kitchen,504.57,557
+1858,External SSD,Electronics,219.42,558
+1859,Computer Speakers,Electronics,355.32,559
+1860,Gaming Keyboard,Electronics,629.52,560
+1861,Gaming Mouse Pad,Accessories,239.07,561
+1862,Rice Cooker,Home & Kitchen,235.14,562
+1863,Phone Grip,Accessories,398.12,563
+1864,Toaster Oven,Home & Kitchen,275.61,564
+1865,Laptop Stand,Accessories,492.49,565
+1866,Mechanical Keyboard,Electronics,326.24,566
+1867,Food Processor,Home & Kitchen,527.94,567
+1868,Monitor Stand,Furniture,386.92,568
+1869,Laptop Sleeve,Accessories,410.19,569
+1870,Wireless Mouse,Electronics,436.61,570
+1871,Power Strip,Electronics,488.71,571
+1872,Microphone,Electronics,531.21,572
+1873,Bookshelf,Furniture,343.73,573
+1874,Portable Charger,Accessories,425.44,574
+1875,Bluetooth Headphones,Electronics,394.41,575
+1876,Noise Cancelling Headset,Electronics,476.59,576
+1877,Smart Watch,Electronics,425.31,577
+1878,Cable Organizer,Accessories,337.21,578
+1879,Storage Containers,Home & Kitchen,338.62,579
+1880,Kitchen Blender,Home & Kitchen,385.14,580
+1881,Wall Clock,Home & Kitchen,338.97,581
+1882,Storage Shelf,Furniture,275.58,582
+1883,WiFi Router,Electronics,628.62,583
+1884,Air Purifier,Home & Kitchen,307.62,584
+1885,Smartphone Case,Accessories,258.44,585
+1886,Standing Desk,Furniture,450.74,586
+1887,Throw Pillows,Home & Kitchen,316.55,587
+1888,Wireless Charger,Electronics,394.34,588
+1889,Wireless Presenter,Electronics,335.57,589
+1890,USB-C Hub,Electronics,317.3,590
+1891,Wireless Earbuds,Electronics,265.73,591
+1892,Electric Kettle,Home & Kitchen,359.44,592
+1893,Desk Organizer,Accessories,370.98,593
+1894,Screen Protector,Accessories,322.27,594
+1895,Desk Lamp,Home & Kitchen,470.63,595
+1896,4K Monitor,Electronics,331.3,596
+1897,Water Bottle,Home & Kitchen,238.89,597
+1898,File Cabinet,Furniture,475.08,598
+1899,Webcam HD,Electronics,310.79,599
+1900,Keyboard Wrist Rest,Accessories,362.02,600
+1901,Office Chair,Furniture,513.21,501
+1902,Coffee Maker,Home & Kitchen,305.14,502
+1903,Document Scanner,Electronics,328.58,503
+1904,Desk Mat,Accessories,455.48,504
+1905,Tablet Stand,Accessories,310.33,505
+1906,Drawer Unit,Furniture,345.53,506
+1907,Bath Towels,Home & Kitchen,296.97,507
+1908,External SSD,Electronics,228.46,508
+1909,Computer Speakers,Electronics,224.9,509
+1910,Gaming Keyboard,Electronics,361.47,510
+1911,Gaming Mouse Pad,Accessories,330.88,511
+1912,Rice Cooker,Home & Kitchen,274.86,512
+1913,Phone Grip,Accessories,416.13,513
+1914,Toaster Oven,Home & Kitchen,511.39,514
+1915,Laptop Stand,Accessories,197.17,515
+1916,Mechanical Keyboard,Electronics,382.29,516
+1917,Food Processor,Home & Kitchen,455.58,517
+1918,Monitor Stand,Furniture,400.52,518
+1919,Laptop Sleeve,Accessories,420.44,519
+1920,Wireless Mouse,Electronics,290.54,520
+1921,Power Strip,Electronics,463.67,521
+1922,Microphone,Electronics,414,522
+1923,Bookshelf,Furniture,363.81,523
+1924,Portable Charger,Accessories,284.8,524
+1925,Bluetooth Headphones,Electronics,203.8,525
+1926,Noise Cancelling Headset,Electronics,264.14,526
+1927,Smart Watch,Electronics,367.89,527
+1928,Cable Organizer,Accessories,509.83,528
+1929,Storage Containers,Home & Kitchen,471.16,529
+1930,Kitchen Blender,Home & Kitchen,232.94,530
+1931,Wall Clock,Home & Kitchen,373.47,531
+1932,Storage Shelf,Furniture,547.13,532
+1933,WiFi Router,Electronics,454.25,533
+1934,Air Purifier,Home & Kitchen,384.2,534
+1935,Smartphone Case,Accessories,262.26,535
+1936,Standing Desk,Furniture,227.02,536
+1937,Throw Pillows,Home & Kitchen,568.81,537
+1938,Wireless Charger,Electronics,359.93,538
+1939,Wireless Presenter,Electronics,195.64,539
+1940,USB-C Hub,Electronics,316.22,540
+1941,Wireless Earbuds,Electronics,427.64,541
+1942,Electric Kettle,Home & Kitchen,288.45,542
+1943,Desk Organizer,Accessories,249.98,543
+1944,Screen Protector,Accessories,229.93,544
+1945,Desk Lamp,Home & Kitchen,289.95,545
+1946,4K Monitor,Electronics,283.55,546
+1947,Water Bottle,Home & Kitchen,387.87,547
+1948,File Cabinet,Furniture,450.03,548
+1949,Webcam HD,Electronics,288.11,549
+1950,Keyboard Wrist Rest,Accessories,361.67,550
+1951,Office Chair,Furniture,348.99,551
+1952,Coffee Maker,Home & Kitchen,322.62,552
+1953,Document Scanner,Electronics,441.02,553
+1954,Desk Mat,Accessories,473.09,554
+1955,Tablet Stand,Accessories,353.04,555
+1956,Drawer Unit,Furniture,357.01,556
+1957,Bath Towels,Home & Kitchen,348.47,557
+1958,External SSD,Electronics,499.23,558
+1959,Computer Speakers,Electronics,388.51,559
+1960,Gaming Keyboard,Electronics,575.86,560
+1961,Gaming Mouse Pad,Accessories,404.29,561
+1962,Rice Cooker,Home & Kitchen,309.47,562
+1963,Phone Grip,Accessories,426.57,563
+1964,Toaster Oven,Home & Kitchen,255.92,564
+1965,Laptop Stand,Accessories,336.83,565
+1966,Mechanical Keyboard,Electronics,348.48,566
+1967,Food Processor,Home & Kitchen,233.11,567
+1968,Monitor Stand,Furniture,459.5,568
+1969,Laptop Sleeve,Accessories,255.35,569
+1970,Wireless Mouse,Electronics,407.48,570
+1971,Power Strip,Electronics,208.91,571
+1972,Microphone,Electronics,316.07,572
+1973,Bookshelf,Furniture,473.18,573
+1974,Portable Charger,Accessories,242.41,574
+1975,Bluetooth Headphones,Electronics,367.17,575
+1976,Noise Cancelling Headset,Electronics,331.27,576
+1977,Smart Watch,Electronics,365.65,577
+1978,Cable Organizer,Accessories,419.26,578
+1979,Storage Containers,Home & Kitchen,271.97,579
+1980,Kitchen Blender,Home & Kitchen,405.38,580
+1981,Wall Clock,Home & Kitchen,265.43,581
+1982,Storage Shelf,Furniture,491.4,582
+1983,WiFi Router,Electronics,332.2,583
+1984,Air Purifier,Home & Kitchen,224.18,584
+1985,Smartphone Case,Accessories,326.48,585
+1986,Standing Desk,Furniture,447.12,586
+1987,Throw Pillows,Home & Kitchen,269.79,587
+1988,Wireless Charger,Electronics,604.66,588
+1989,Wireless Presenter,Electronics,324.48,589
+1990,USB-C Hub,Electronics,309.94,590
+1991,Wireless Earbuds,Electronics,362.71,591
+1992,Electric Kettle,Home & Kitchen,293.16,592
+1993,Desk Organizer,Accessories,223.13,593
+1994,Screen Protector,Accessories,188.24,594
+1995,Desk Lamp,Home & Kitchen,352.39,595
+1996,4K Monitor,Electronics,227.37,596
+1997,Water Bottle,Home & Kitchen,453.48,597
+1998,File Cabinet,Furniture,305.49,598
+1999,Webcam HD,Electronics,364.7,599
+2000,Keyboard Wrist Rest,Accessories,416.59,600

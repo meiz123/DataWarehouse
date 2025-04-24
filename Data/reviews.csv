@@ -1,0 +1,1107 @@
+review_id,product_id,customer_id,rating,review_text
+1,16,1516,4,"Customer service was excellent, product too."
+2,1516,1516,4,"Customer service was excellent, product too."
+3,1566,9066,1,Basic functionality but reliable.
+4,66,9066,1,Basic functionality but reliable.
+5,1522,1522,3,Better than similar products I have tried.
+6,22,1522,3,Better than similar products I have tried.
+7,1508,3008,2,"Fantastic, exactly what I needed."
+8,8,3008,2,"Fantastic, exactly what I needed."
+9,1560,60,1,Definitely recommend to others.
+10,60,60,1,Definitely recommend to others.
+11,12,7512,4,Could be better for the price point.
+12,1512,7512,4,Could be better for the price point.
+13,1521,21,2,Exactly what I was looking for.
+14,21,21,2,Exactly what I was looking for.
+15,10,7510,2,Very impressed with the build quality.
+16,1510,7510,2,Very impressed with the build quality.
+17,31,1531,2,"Not as described, slightly disappointed."
+18,1531,1531,2,"Not as described, slightly disappointed."
+19,37,4537,5,"Does the basics well, nothing fancy."
+20,1537,4537,5,"Does the basics well, nothing fancy."
+21,1550,7550,3,Outstanding quality and design.
+22,50,7550,3,Outstanding quality and design.
+23,75,1575,5,Could use some improvements.
+24,1575,1575,5,Could use some improvements.
+25,1522,9022,3,Better than similar products I have tried.
+26,22,9022,3,Better than similar products I have tried.
+27,25,1525,1,Decent product but overpriced.
+28,1525,1525,1,Decent product but overpriced.
+29,1530,7530,3,Absolutely love this product!
+30,30,7530,3,Absolutely love this product!
+31,1550,9050,3,Outstanding quality and design.
+32,50,9050,3,Outstanding quality and design.
+33,72,72,5,Really impressed with the quality.
+34,1572,72,5,Really impressed with the quality.
+35,1556,9056,1,Love the design and functionality.
+36,56,9056,1,Love the design and functionality.
+37,25,9025,1,Decent product but overpriced.
+38,1525,9025,1,Decent product but overpriced.
+39,1521,1521,2,Exactly what I was looking for.
+40,21,1521,2,Exactly what I was looking for.
+41,1520,7520,3,"Not worth the money, save your cash."
+42,20,7520,3,"Not worth the money, save your cash."
+43,1511,6011,4,"Shipping was fast, product works great!"
+44,11,6011,4,"Shipping was fast, product works great!"
+45,16,6016,4,"Customer service was excellent, product too."
+46,1516,6016,4,"Customer service was excellent, product too."
+47,1560,3060,1,Definitely recommend to others.
+48,60,3060,1,Definitely recommend to others.
+49,38,9038,4,Worth every penny spent.
+50,1538,9038,4,Worth every penny spent.
+51,24,7524,5,Would give it 6 stars if I could!
+52,1524,7524,5,Would give it 6 stars if I could!
+53,1567,3067,4,Impressive attention to detail.
+54,67,3067,4,Impressive attention to detail.
+55,7,7507,3,Amazing! Exceeded my expectations.
+56,1507,7507,3,Amazing! Exceeded my expectations.
+57,1544,7544,5,Minor issues but works as intended.
+58,44,7544,5,Minor issues but works as intended.
+59,9,9,2,"It is okay, does the job."
+60,1509,9,2,"It is okay, does the job."
+61,1533,1533,4,Good product but shipping took forever.
+62,33,1533,4,Good product but shipping took forever.
+63,37,3037,5,"Does the basics well, nothing fancy."
+64,1537,3037,5,"Does the basics well, nothing fancy."
+65,31,4531,2,"Not as described, slightly disappointed."
+66,1531,4531,2,"Not as described, slightly disappointed."
+67,1555,55,3,"Decent build quality, fair price."
+68,55,55,3,"Decent build quality, fair price."
+69,1533,7533,4,Good product but shipping took forever.
+70,33,7533,4,Good product but shipping took forever.
+71,27,4527,5,Had some issues but support was helpful.
+72,1527,4527,5,Had some issues but support was helpful.
+73,49,4549,1,"Not the best, but gets the job done."
+74,1549,4549,1,"Not the best, but gets the job done."
+75,1535,1535,4,Quality control needs improvement.
+76,35,1535,4,Quality control needs improvement.
+77,32,6032,5,"Functions perfectly, no issues so far."
+78,1532,6032,5,"Functions perfectly, no issues so far."
+79,79,7579,1,Would definitely buy again!
+80,1579,7579,1,Would definitely buy again!
+81,1560,6060,1,Definitely recommend to others.
+82,60,6060,1,Definitely recommend to others.
+83,1574,4574,2,"Fantastic product, fast shipping."
+84,74,4574,2,"Fantastic product, fast shipping."
+85,1520,6020,3,"Not worth the money, save your cash."
+86,20,6020,3,"Not worth the money, save your cash."
+87,1521,6021,2,Exactly what I was looking for.
+88,21,6021,2,Exactly what I was looking for.
+89,51,6051,1,Mixed feelings about this one.
+90,1551,6051,1,Mixed feelings about this one.
+91,1521,7521,2,Exactly what I was looking for.
+92,21,7521,2,Exactly what I was looking for.
+93,1519,19,5,"Works as advertised, no complaints."
+94,19,19,5,"Works as advertised, no complaints."
+95,47,1547,1,Perfect addition to my setup.
+96,1547,1547,1,Perfect addition to my setup.
+97,49,3049,1,"Not the best, but gets the job done."
+98,1549,3049,1,"Not the best, but gets the job done."
+99,70,3070,3,Met my expectations perfectly.
+100,1570,3070,3,Met my expectations perfectly.
+101,1562,4562,2,"Good product, slow delivery."
+102,62,4562,2,"Good product, slow delivery."
+103,1533,6033,4,Good product but shipping took forever.
+104,33,6033,4,Good product but shipping took forever.
+105,1545,9045,2,Exceeded my expectations completely.
+106,45,9045,2,Exceeded my expectations completely.
+107,38,6038,4,Worth every penny spent.
+108,1538,6038,4,Worth every penny spent.
+109,6,6006,1,"The item broke after a week, not happy."
+110,1506,6006,1,"The item broke after a week, not happy."
+111,1515,7515,3,"Lasted longer than expected, good purchase."
+112,15,7515,3,"Lasted longer than expected, good purchase."
+113,75,6075,5,Could use some improvements.
+114,1575,6075,5,Could use some improvements.
+115,1576,6076,3,"Great features, worth the wait."
+116,76,6076,3,"Great features, worth the wait."
+117,38,7538,4,Worth every penny spent.
+118,1538,7538,4,Worth every penny spent.
+119,1546,7546,2,"Just average, nothing remarkable."
+120,46,7546,2,"Just average, nothing remarkable."
+121,28,3028,1,"Solid construction, feels durable."
+122,1528,3028,1,"Solid construction, feels durable."
+123,3,7503,1,"Excellent quality, would buy again."
+124,1503,7503,1,"Excellent quality, would buy again."
+125,69,7569,1,Amazing value for the features.
+126,1569,7569,1,Amazing value for the features.
+127,24,24,5,Would give it 6 stars if I could!
+128,1524,24,5,Would give it 6 stars if I could!
+129,79,3079,1,Would definitely buy again!
+130,1579,3079,1,Would definitely buy again!
+131,1541,6041,3,Expected better quality materials.
+132,41,6041,3,Expected better quality materials.
+133,1526,4526,1,"Easy to use, great features."
+134,26,4526,1,"Easy to use, great features."
+135,1517,6017,5,Disappointed with the overall quality.
+136,17,6017,5,Disappointed with the overall quality.
+137,3,9003,1,"Excellent quality, would buy again."
+138,1503,9003,1,"Excellent quality, would buy again."
+139,1563,4563,4,Happy with the performance so far.
+140,63,4563,4,Happy with the performance so far.
+141,1517,17,5,Disappointed with the overall quality.
+142,17,17,5,Disappointed with the overall quality.
+143,1514,4514,2,"Average product, nothing special."
+144,14,4514,2,"Average product, nothing special."
+145,1545,45,2,Exceeded my expectations completely.
+146,45,45,2,Exceeded my expectations completely.
+147,1501,7501,4,"Great product, very satisfied!"
+148,1,7501,4,"Great product, very satisfied!"
+149,40,7540,2,Impressive features for the price.
+150,1540,7540,2,Impressive features for the price.
+151,1562,1562,2,"Good product, slow delivery."
+152,62,1562,2,"Good product, slow delivery."
+153,64,4564,2,Not quite what I was hoping for.
+154,1564,4564,2,Not quite what I was hoping for.
+155,28,1528,1,"Solid construction, feels durable."
+156,1528,1528,1,"Solid construction, feels durable."
+157,34,9034,4,Really happy with this purchase.
+158,1534,9034,4,Really happy with this purchase.
+159,1511,11,4,"Shipping was fast, product works great!"
+160,11,11,4,"Shipping was fast, product works great!"
+161,31,3031,2,"Not as described, slightly disappointed."
+162,1531,3031,2,"Not as described, slightly disappointed."
+163,78,9078,1,Good quality but instructions unclear.
+164,1578,9078,1,Good quality but instructions unclear.
+165,1548,4548,4,Wish I had bought this sooner!
+166,48,4548,4,Wish I had bought this sooner!
+167,71,4571,5,Solid product despite minor flaws.
+168,1571,4571,5,Solid product despite minor flaws.
+169,1501,3001,4,"Great product, very satisfied!"
+170,1,3001,4,"Great product, very satisfied!"
+171,16,9016,4,"Customer service was excellent, product too."
+172,1516,9016,4,"Customer service was excellent, product too."
+173,1573,1573,5,Works well but expensive for what it is.
+174,73,1573,5,Works well but expensive for what it is.
+175,75,9075,5,Could use some improvements.
+176,1575,9075,5,Could use some improvements.
+177,43,1543,3,"Great value, pleasantly surprised."
+178,1543,1543,3,"Great value, pleasantly surprised."
+179,9,9009,2,"It is okay, does the job."
+180,1509,9009,2,"It is okay, does the job."
+181,70,70,3,Met my expectations perfectly.
+182,1570,70,3,Met my expectations perfectly.
+183,1546,1546,2,"Just average, nothing remarkable."
+184,46,1546,2,"Just average, nothing remarkable."
+185,34,6034,4,Really happy with this purchase.
+186,1534,6034,4,Really happy with this purchase.
+187,7,6007,3,Amazing! Exceeded my expectations.
+188,1507,6007,3,Amazing! Exceeded my expectations.
+189,72,6072,5,Really impressed with the quality.
+190,1572,6072,5,Really impressed with the quality.
+191,1501,9001,4,"Great product, very satisfied!"
+192,1,9001,4,"Great product, very satisfied!"
+193,1545,3045,2,Exceeded my expectations completely.
+194,45,3045,2,Exceeded my expectations completely.
+195,43,43,3,"Great value, pleasantly surprised."
+196,1543,43,3,"Great value, pleasantly surprised."
+197,1514,6014,2,"Average product, nothing special."
+198,14,6014,2,"Average product, nothing special."
+199,51,7551,1,Mixed feelings about this one.
+200,1551,7551,1,Mixed feelings about this one.
+201,1501,1,4,"Great product, very satisfied!"
+202,1,1,4,"Great product, very satisfied!"
+203,1548,9048,4,Wish I had bought this sooner!
+204,48,9048,4,Wish I had bought this sooner!
+205,43,3043,3,"Great value, pleasantly surprised."
+206,1543,3043,3,"Great value, pleasantly surprised."
+207,36,3036,2,Outstanding performance and reliability.
+208,1536,3036,2,Outstanding performance and reliability.
+209,34,7534,4,Really happy with this purchase.
+210,1534,7534,4,Really happy with this purchase.
+211,71,1571,5,Solid product despite minor flaws.
+212,1571,1571,5,Solid product despite minor flaws.
+213,47,3047,1,Perfect addition to my setup.
+214,1547,3047,1,Perfect addition to my setup.
+215,2,7502,1,"Not what I expected, but still decent."
+216,1502,7502,1,"Not what I expected, but still decent."
+217,25,25,1,Decent product but overpriced.
+218,1525,25,1,Decent product but overpriced.
+219,1555,3055,3,"Decent build quality, fair price."
+220,55,3055,3,"Decent build quality, fair price."
+221,23,1523,1,Nice design but functionality is lacking.
+222,1523,1523,1,Nice design but functionality is lacking.
+223,40,4540,2,Impressive features for the price.
+224,1540,4540,2,Impressive features for the price.
+225,36,1536,2,Outstanding performance and reliability.
+226,1536,1536,2,Outstanding performance and reliability.
+227,1559,1559,2,Started strong but deteriorated quickly.
+228,59,1559,2,Started strong but deteriorated quickly.
+229,2,1502,1,"Not what I expected, but still decent."
+230,1502,1502,1,"Not what I expected, but still decent."
+231,1548,6048,4,Wish I had bought this sooner!
+232,48,6048,4,Wish I had bought this sooner!
+233,18,7518,2,Best purchase I have made this year!
+234,1518,7518,2,Best purchase I have made this year!
+235,57,1557,3,Some improvements needed but good overall.
+236,1557,1557,3,Some improvements needed but good overall.
+237,47,7547,1,Perfect addition to my setup.
+238,1547,7547,1,Perfect addition to my setup.
+239,77,9077,2,Satisfied with the purchase overall.
+240,1577,9077,2,Satisfied with the purchase overall.
+241,1514,1514,2,"Average product, nothing special."
+242,14,1514,2,"Average product, nothing special."
+243,78,3078,1,Good quality but instructions unclear.
+244,1578,3078,1,Good quality but instructions unclear.
+245,7,4507,3,Amazing! Exceeded my expectations.
+246,1507,4507,3,Amazing! Exceeded my expectations.
+247,7,3007,3,Amazing! Exceeded my expectations.
+248,1507,3007,3,Amazing! Exceeded my expectations.
+249,75,3075,5,Could use some improvements.
+250,1575,3075,5,Could use some improvements.
+251,70,4570,3,Met my expectations perfectly.
+252,1570,4570,3,Met my expectations perfectly.
+253,40,3040,2,Impressive features for the price.
+254,1540,3040,2,Impressive features for the price.
+255,28,9028,1,"Solid construction, feels durable."
+256,1528,9028,1,"Solid construction, feels durable."
+257,1574,7574,2,"Fantastic product, fast shipping."
+258,74,7574,2,"Fantastic product, fast shipping."
+259,1554,1554,2,Lives up to the hype completely.
+260,54,1554,2,Lives up to the hype completely.
+261,1574,3074,2,"Fantastic product, fast shipping."
+262,74,3074,2,"Fantastic product, fast shipping."
+263,69,4569,1,Amazing value for the features.
+264,1569,4569,1,Amazing value for the features.
+265,69,69,1,Amazing value for the features.
+266,1569,69,1,Amazing value for the features.
+267,49,1549,1,"Not the best, but gets the job done."
+268,1549,1549,1,"Not the best, but gets the job done."
+269,1559,9059,2,Started strong but deteriorated quickly.
+270,59,9059,2,Started strong but deteriorated quickly.
+271,64,1564,2,Not quite what I was hoping for.
+272,1564,1564,2,Not quite what I was hoping for.
+273,1567,9067,4,Impressive attention to detail.
+274,67,9067,4,Impressive attention to detail.
+275,1562,62,2,"Good product, slow delivery."
+276,62,62,2,"Good product, slow delivery."
+277,29,6029,1,"Pretty good, room for improvement though."
+278,1529,6029,1,"Pretty good, room for improvement though."
+279,43,9043,3,"Great value, pleasantly surprised."
+280,1543,9043,3,"Great value, pleasantly surprised."
+281,42,4542,5,Simple to set up and use daily.
+282,1542,4542,5,Simple to set up and use daily.
+283,3,3,1,"Excellent quality, would buy again."
+284,1503,3,1,"Excellent quality, would buy again."
+285,1558,9058,3,Excellent product for daily use.
+286,58,9058,3,Excellent product for daily use.
+287,13,4513,5,"Perfect for my needs, highly recommend."
+288,1513,4513,5,"Perfect for my needs, highly recommend."
+289,1505,5,1,Good value for the price.
+290,5,5,1,Good value for the price.
+291,6,7506,1,"The item broke after a week, not happy."
+292,1506,7506,1,"The item broke after a week, not happy."
+293,68,7568,3,Needs some refinement but promising.
+294,1568,7568,3,Needs some refinement but promising.
+295,1560,7560,1,Definitely recommend to others.
+296,60,7560,1,Definitely recommend to others.
+297,9,4509,2,"It is okay, does the job."
+298,1509,4509,2,"It is okay, does the job."
+299,12,6012,4,Could be better for the price point.
+300,1512,6012,4,Could be better for the price point.
+301,1505,6005,1,Good value for the price.
+302,5,6005,1,Good value for the price.
+303,1566,4566,1,Basic functionality but reliable.
+304,66,4566,1,Basic functionality but reliable.
+305,42,7542,5,Simple to set up and use daily.
+306,1542,7542,5,Simple to set up and use daily.
+307,1555,1555,3,"Decent build quality, fair price."
+308,55,1555,3,"Decent build quality, fair price."
+309,68,68,3,Needs some refinement but promising.
+310,1568,68,3,Needs some refinement but promising.
+311,1522,22,3,Better than similar products I have tried.
+312,22,22,3,Better than similar products I have tried.
+313,1541,41,3,Expected better quality materials.
+314,41,41,3,Expected better quality materials.
+315,1519,7519,5,"Works as advertised, no complaints."
+316,19,7519,5,"Works as advertised, no complaints."
+317,1501,1501,4,"Great product, very satisfied!"
+318,1,1501,4,"Great product, very satisfied!"
+319,71,6071,5,Solid product despite minor flaws.
+320,1571,6071,5,Solid product despite minor flaws.
+321,1520,20,3,"Not worth the money, save your cash."
+322,20,20,3,"Not worth the money, save your cash."
+323,27,1527,5,Had some issues but support was helpful.
+324,1527,1527,5,Had some issues but support was helpful.
+325,34,34,4,Really happy with this purchase.
+326,1534,34,4,Really happy with this purchase.
+327,3,3003,1,"Excellent quality, would buy again."
+328,1503,3003,1,"Excellent quality, would buy again."
+329,29,29,1,"Pretty good, room for improvement though."
+330,1529,29,1,"Pretty good, room for improvement though."
+331,1511,1511,4,"Shipping was fast, product works great!"
+332,11,1511,4,"Shipping was fast, product works great!"
+333,12,4512,4,Could be better for the price point.
+334,1512,4512,4,Could be better for the price point.
+335,9,6009,2,"It is okay, does the job."
+336,1509,6009,2,"It is okay, does the job."
+337,1522,3022,3,Better than similar products I have tried.
+338,22,3022,3,Better than similar products I have tried.
+339,39,9039,1,Some flaws but overall satisfactory.
+340,1539,9039,1,Some flaws but overall satisfactory.
+341,1530,30,3,Absolutely love this product!
+342,30,30,3,Absolutely love this product!
+343,1504,3004,1,The product arrived late but works well.
+344,4,3004,1,The product arrived late but works well.
+345,57,4557,3,Some improvements needed but good overall.
+346,1557,4557,3,Some improvements needed but good overall.
+347,1541,9041,3,Expected better quality materials.
+348,41,9041,3,Expected better quality materials.
+349,1533,9033,4,Good product but shipping took forever.
+350,33,9033,4,Good product but shipping took forever.
+351,1552,1552,2,"Reliable product, no regrets."
+352,52,1552,2,"Reliable product, no regrets."
+353,28,6028,1,"Solid construction, feels durable."
+354,1528,6028,1,"Solid construction, feels durable."
+355,51,9051,1,Mixed feelings about this one.
+356,1551,9051,1,Mixed feelings about this one.
+357,1541,1541,3,Expected better quality materials.
+358,41,1541,3,Expected better quality materials.
+359,61,3061,4,Better than I anticipated.
+360,1561,3061,4,Better than I anticipated.
+361,51,51,1,Mixed feelings about this one.
+362,1551,51,1,Mixed feelings about this one.
+363,70,9070,3,Met my expectations perfectly.
+364,1570,9070,3,Met my expectations perfectly.
+365,1556,1556,1,Love the design and functionality.
+366,56,1556,1,Love the design and functionality.
+367,1530,6030,3,Absolutely love this product!
+368,30,6030,3,Absolutely love this product!
+369,23,6023,1,Nice design but functionality is lacking.
+370,1523,6023,1,Nice design but functionality is lacking.
+371,1554,3054,2,Lives up to the hype completely.
+372,54,3054,2,Lives up to the hype completely.
+373,38,1538,4,Worth every penny spent.
+374,1538,1538,4,Worth every penny spent.
+375,1558,1558,3,Excellent product for daily use.
+376,58,1558,3,Excellent product for daily use.
+377,1504,1504,1,The product arrived late but works well.
+378,4,1504,1,The product arrived late but works well.
+379,78,6078,1,Good quality but instructions unclear.
+380,1578,6078,1,Good quality but instructions unclear.
+381,64,64,2,Not quite what I was hoping for.
+382,1564,64,2,Not quite what I was hoping for.
+383,1553,7553,5,Good features but poor execution.
+384,53,7553,5,Good features but poor execution.
+385,1566,3066,1,Basic functionality but reliable.
+386,66,3066,1,Basic functionality but reliable.
+387,1517,7517,5,Disappointed with the overall quality.
+388,17,7517,5,Disappointed with the overall quality.
+389,6,6,1,"The item broke after a week, not happy."
+390,1506,6,1,"The item broke after a week, not happy."
+391,1511,9011,4,"Shipping was fast, product works great!"
+392,11,9011,4,"Shipping was fast, product works great!"
+393,57,57,3,Some improvements needed but good overall.
+394,1557,57,3,Some improvements needed but good overall.
+395,1517,1517,5,Disappointed with the overall quality.
+396,17,1517,5,Disappointed with the overall quality.
+397,1553,53,5,Good features but poor execution.
+398,53,53,5,Good features but poor execution.
+399,27,3027,5,Had some issues but support was helpful.
+400,1527,3027,5,Had some issues but support was helpful.
+401,1519,1519,5,"Works as advertised, no complaints."
+402,19,1519,5,"Works as advertised, no complaints."
+403,1555,4555,3,"Decent build quality, fair price."
+404,55,4555,3,"Decent build quality, fair price."
+405,1522,4522,3,Better than similar products I have tried.
+406,22,4522,3,Better than similar products I have tried.
+407,1558,58,3,Excellent product for daily use.
+408,58,58,3,Excellent product for daily use.
+409,1553,6053,5,Good features but poor execution.
+410,53,6053,5,Good features but poor execution.
+411,18,3018,2,Best purchase I have made this year!
+412,1518,3018,2,Best purchase I have made this year!
+413,1576,7576,3,"Great features, worth the wait."
+414,76,7576,3,"Great features, worth the wait."
+415,16,16,4,"Customer service was excellent, product too."
+416,1516,16,4,"Customer service was excellent, product too."
+417,1530,9030,3,Absolutely love this product!
+418,30,9030,3,Absolutely love this product!
+419,65,9065,2,Superior quality compared to competitors.
+420,1565,9065,2,Superior quality compared to competitors.
+421,78,1578,1,Good quality but instructions unclear.
+422,1578,1578,1,Good quality but instructions unclear.
+423,1522,7522,3,Better than similar products I have tried.
+424,22,7522,3,Better than similar products I have tried.
+425,1505,1505,1,Good value for the price.
+426,5,1505,1,Good value for the price.
+427,27,7527,5,Had some issues but support was helpful.
+428,1527,7527,5,Had some issues but support was helpful.
+429,1559,7559,2,Started strong but deteriorated quickly.
+430,59,7559,2,Started strong but deteriorated quickly.
+431,1544,1544,5,Minor issues but works as intended.
+432,44,1544,5,Minor issues but works as intended.
+433,34,1534,4,Really happy with this purchase.
+434,1534,1534,4,Really happy with this purchase.
+435,3,4503,1,"Excellent quality, would buy again."
+436,1503,4503,1,"Excellent quality, would buy again."
+437,2,4502,1,"Not what I expected, but still decent."
+438,1502,4502,1,"Not what I expected, but still decent."
+439,6,9006,1,"The item broke after a week, not happy."
+440,1506,9006,1,"The item broke after a week, not happy."
+441,3,1503,1,"Excellent quality, would buy again."
+442,1503,1503,1,"Excellent quality, would buy again."
+443,1515,4515,3,"Lasted longer than expected, good purchase."
+444,15,4515,3,"Lasted longer than expected, good purchase."
+445,13,6013,5,"Perfect for my needs, highly recommend."
+446,1513,6013,5,"Perfect for my needs, highly recommend."
+447,68,1568,3,Needs some refinement but promising.
+448,1568,1568,3,Needs some refinement but promising.
+449,1563,1563,4,Happy with the performance so far.
+450,63,1563,4,Happy with the performance so far.
+451,6,4506,1,"The item broke after a week, not happy."
+452,1506,4506,1,"The item broke after a week, not happy."
+453,18,1518,2,Best purchase I have made this year!
+454,1518,1518,2,Best purchase I have made this year!
+455,25,3025,1,Decent product but overpriced.
+456,1525,3025,1,Decent product but overpriced.
+457,1567,4567,4,Impressive attention to detail.
+458,67,4567,4,Impressive attention to detail.
+459,12,1512,4,Could be better for the price point.
+460,1512,1512,4,Could be better for the price point.
+461,1511,3011,4,"Shipping was fast, product works great!"
+462,11,3011,4,"Shipping was fast, product works great!"
+463,1514,14,2,"Average product, nothing special."
+464,14,14,2,"Average product, nothing special."
+465,1555,9055,3,"Decent build quality, fair price."
+466,55,9055,3,"Decent build quality, fair price."
+467,1559,3059,2,Started strong but deteriorated quickly.
+468,59,3059,2,Started strong but deteriorated quickly.
+469,1535,3035,4,Quality control needs improvement.
+470,35,3035,4,Quality control needs improvement.
+471,1576,3076,3,"Great features, worth the wait."
+472,76,3076,3,"Great features, worth the wait."
+473,57,3057,3,Some improvements needed but good overall.
+474,1557,3057,3,Some improvements needed but good overall.
+475,75,75,5,Could use some improvements.
+476,1575,75,5,Could use some improvements.
+477,1574,1574,2,"Fantastic product, fast shipping."
+478,74,1574,2,"Fantastic product, fast shipping."
+479,38,4538,4,Worth every penny spent.
+480,1538,4538,4,Worth every penny spent.
+481,23,4523,1,Nice design but functionality is lacking.
+482,1523,4523,1,Nice design but functionality is lacking.
+483,72,3072,5,Really impressed with the quality.
+484,1572,3072,5,Really impressed with the quality.
+485,51,3051,1,Mixed feelings about this one.
+486,1551,3051,1,Mixed feelings about this one.
+487,47,47,1,Perfect addition to my setup.
+488,1547,47,1,Perfect addition to my setup.
+489,77,1577,2,Satisfied with the purchase overall.
+490,1577,1577,2,Satisfied with the purchase overall.
+491,1508,6008,2,"Fantastic, exactly what I needed."
+492,8,6008,2,"Fantastic, exactly what I needed."
+493,1535,35,4,Quality control needs improvement.
+494,35,35,4,Quality control needs improvement.
+495,1530,1530,3,Absolutely love this product!
+496,30,1530,3,Absolutely love this product!
+497,38,38,4,Worth every penny spent.
+498,1538,38,4,Worth every penny spent.
+499,32,32,5,"Functions perfectly, no issues so far."
+500,1532,32,5,"Functions perfectly, no issues so far."
+501,23,9023,1,Nice design but functionality is lacking.
+502,1523,9023,1,Nice design but functionality is lacking.
+503,24,3024,5,Would give it 6 stars if I could!
+504,1524,3024,5,Would give it 6 stars if I could!
+505,49,49,1,"Not the best, but gets the job done."
+506,1549,49,1,"Not the best, but gets the job done."
+507,68,9068,3,Needs some refinement but promising.
+508,1568,9068,3,Needs some refinement but promising.
+509,7,9007,3,Amazing! Exceeded my expectations.
+510,1507,9007,3,Amazing! Exceeded my expectations.
+511,1559,6059,2,Started strong but deteriorated quickly.
+512,59,6059,2,Started strong but deteriorated quickly.
+513,1519,9019,5,"Works as advertised, no complaints."
+514,19,9019,5,"Works as advertised, no complaints."
+515,1517,3017,5,Disappointed with the overall quality.
+516,17,3017,5,Disappointed with the overall quality.
+517,40,1540,2,Impressive features for the price.
+518,1540,1540,2,Impressive features for the price.
+519,1556,6056,1,Love the design and functionality.
+520,56,6056,1,Love the design and functionality.
+521,31,6031,2,"Not as described, slightly disappointed."
+522,1531,6031,2,"Not as described, slightly disappointed."
+523,1558,7558,3,Excellent product for daily use.
+524,58,7558,3,Excellent product for daily use.
+525,1526,6026,1,"Easy to use, great features."
+526,26,6026,1,"Easy to use, great features."
+527,1519,6019,5,"Works as advertised, no complaints."
+528,19,6019,5,"Works as advertised, no complaints."
+529,9,3009,2,"It is okay, does the job."
+530,1509,3009,2,"It is okay, does the job."
+531,1515,6015,3,"Lasted longer than expected, good purchase."
+532,15,6015,3,"Lasted longer than expected, good purchase."
+533,29,1529,1,"Pretty good, room for improvement though."
+534,1529,1529,1,"Pretty good, room for improvement though."
+535,13,7513,5,"Perfect for my needs, highly recommend."
+536,1513,7513,5,"Perfect for my needs, highly recommend."
+537,1535,9035,4,Quality control needs improvement.
+538,35,9035,4,Quality control needs improvement.
+539,31,31,2,"Not as described, slightly disappointed."
+540,1531,31,2,"Not as described, slightly disappointed."
+541,36,6036,2,Outstanding performance and reliability.
+542,1536,6036,2,Outstanding performance and reliability.
+543,1546,9046,2,"Just average, nothing remarkable."
+544,46,9046,2,"Just average, nothing remarkable."
+545,1573,6073,5,Works well but expensive for what it is.
+546,73,6073,5,Works well but expensive for what it is.
+547,39,1539,1,Some flaws but overall satisfactory.
+548,1539,1539,1,Some flaws but overall satisfactory.
+549,1556,56,1,Love the design and functionality.
+550,56,56,1,Love the design and functionality.
+551,40,40,2,Impressive features for the price.
+552,1540,40,2,Impressive features for the price.
+553,13,13,5,"Perfect for my needs, highly recommend."
+554,1513,13,5,"Perfect for my needs, highly recommend."
+555,10,6010,2,Very impressed with the build quality.
+556,1510,6010,2,Very impressed with the build quality.
+557,69,9069,1,Amazing value for the features.
+558,1569,9069,1,Amazing value for the features.
+559,1504,7504,1,The product arrived late but works well.
+560,4,7504,1,The product arrived late but works well.
+561,1573,73,5,Works well but expensive for what it is.
+562,73,73,5,Works well but expensive for what it is.
+563,1558,3058,3,Excellent product for daily use.
+564,58,3058,3,Excellent product for daily use.
+565,6,3006,1,"The item broke after a week, not happy."
+566,1506,3006,1,"The item broke after a week, not happy."
+567,12,3012,4,Could be better for the price point.
+568,1512,3012,4,Could be better for the price point.
+569,71,7571,5,Solid product despite minor flaws.
+570,1571,7571,5,Solid product despite minor flaws.
+571,61,9061,4,Better than I anticipated.
+572,1561,9061,4,Better than I anticipated.
+573,57,9057,3,Some improvements needed but good overall.
+574,1557,9057,3,Some improvements needed but good overall.
+575,1519,3019,5,"Works as advertised, no complaints."
+576,19,3019,5,"Works as advertised, no complaints."
+577,1541,4541,3,Expected better quality materials.
+578,41,4541,3,Expected better quality materials.
+579,1559,59,2,Started strong but deteriorated quickly.
+580,59,59,2,Started strong but deteriorated quickly.
+581,1530,4530,3,Absolutely love this product!
+582,30,4530,3,Absolutely love this product!
+583,39,7539,1,Some flaws but overall satisfactory.
+584,1539,7539,1,Some flaws but overall satisfactory.
+585,43,7543,3,"Great value, pleasantly surprised."
+586,1543,7543,3,"Great value, pleasantly surprised."
+587,3,6003,1,"Excellent quality, would buy again."
+588,1503,6003,1,"Excellent quality, would buy again."
+589,16,4516,4,"Customer service was excellent, product too."
+590,1516,4516,4,"Customer service was excellent, product too."
+591,68,4568,3,Needs some refinement but promising.
+592,1568,4568,3,Needs some refinement but promising.
+593,64,6064,2,Not quite what I was hoping for.
+594,1564,6064,2,Not quite what I was hoping for.
+595,49,6049,1,"Not the best, but gets the job done."
+596,1549,6049,1,"Not the best, but gets the job done."
+597,16,3016,4,"Customer service was excellent, product too."
+598,1516,3016,4,"Customer service was excellent, product too."
+599,61,61,4,Better than I anticipated.
+600,1561,61,4,Better than I anticipated.
+601,32,1532,5,"Functions perfectly, no issues so far."
+602,1532,1532,5,"Functions perfectly, no issues so far."
+603,1526,1526,1,"Easy to use, great features."
+604,26,1526,1,"Easy to use, great features."
+605,1545,7545,2,Exceeded my expectations completely.
+606,45,7545,2,Exceeded my expectations completely.
+607,1521,3021,2,Exactly what I was looking for.
+608,21,3021,2,Exactly what I was looking for.
+609,38,3038,4,Worth every penny spent.
+610,1538,3038,4,Worth every penny spent.
+611,68,3068,3,Needs some refinement but promising.
+612,1568,3068,3,Needs some refinement but promising.
+613,1535,7535,4,Quality control needs improvement.
+614,35,7535,4,Quality control needs improvement.
+615,1522,6022,3,Better than similar products I have tried.
+616,22,6022,3,Better than similar products I have tried.
+617,1553,9053,5,Good features but poor execution.
+618,53,9053,5,Good features but poor execution.
+619,1526,26,1,"Easy to use, great features."
+620,26,26,1,"Easy to use, great features."
+621,37,1537,5,"Does the basics well, nothing fancy."
+622,1537,1537,5,"Does the basics well, nothing fancy."
+623,13,1513,5,"Perfect for my needs, highly recommend."
+624,1513,1513,5,"Perfect for my needs, highly recommend."
+625,1545,1545,2,Exceeded my expectations completely.
+626,45,1545,2,Exceeded my expectations completely.
+627,12,12,4,Could be better for the price point.
+628,1512,12,4,Could be better for the price point.
+629,1574,9074,2,"Fantastic product, fast shipping."
+630,74,9074,2,"Fantastic product, fast shipping."
+631,25,7525,1,Decent product but overpriced.
+632,1525,7525,1,Decent product but overpriced.
+633,23,7523,1,Nice design but functionality is lacking.
+634,1523,7523,1,Nice design but functionality is lacking.
+635,77,7577,2,Satisfied with the purchase overall.
+636,1577,7577,2,Satisfied with the purchase overall.
+637,1548,48,4,Wish I had bought this sooner!
+638,48,48,4,Wish I had bought this sooner!
+639,1535,4535,4,Quality control needs improvement.
+640,35,4535,4,Quality control needs improvement.
+641,1526,7526,1,"Easy to use, great features."
+642,26,7526,1,"Easy to use, great features."
+643,36,9036,2,Outstanding performance and reliability.
+644,1536,9036,2,Outstanding performance and reliability.
+645,1576,76,3,"Great features, worth the wait."
+646,76,76,3,"Great features, worth the wait."
+647,1574,74,2,"Fantastic product, fast shipping."
+648,74,74,2,"Fantastic product, fast shipping."
+649,1520,3020,3,"Not worth the money, save your cash."
+650,20,3020,3,"Not worth the money, save your cash."
+651,69,3069,1,Amazing value for the features.
+652,1569,3069,1,Amazing value for the features.
+653,1552,9052,2,"Reliable product, no regrets."
+654,52,9052,2,"Reliable product, no regrets."
+655,1552,4552,2,"Reliable product, no regrets."
+656,52,4552,2,"Reliable product, no regrets."
+657,1504,9004,1,The product arrived late but works well.
+658,4,9004,1,The product arrived late but works well.
+659,42,1542,5,Simple to set up and use daily.
+660,1542,1542,5,Simple to set up and use daily.
+661,1556,3056,1,Love the design and functionality.
+662,56,3056,1,Love the design and functionality.
+663,1573,7573,5,Works well but expensive for what it is.
+664,73,7573,5,Works well but expensive for what it is.
+665,1567,67,4,Impressive attention to detail.
+666,67,67,4,Impressive attention to detail.
+667,1514,3014,2,"Average product, nothing special."
+668,14,3014,2,"Average product, nothing special."
+669,1544,9044,5,Minor issues but works as intended.
+670,44,9044,5,Minor issues but works as intended.
+671,1550,4550,3,Outstanding quality and design.
+672,50,4550,3,Outstanding quality and design.
+673,70,1570,3,Met my expectations perfectly.
+674,1570,1570,3,Met my expectations perfectly.
+675,10,3010,2,Very impressed with the build quality.
+676,1510,3010,2,Very impressed with the build quality.
+677,1566,1566,1,Basic functionality but reliable.
+678,66,1566,1,Basic functionality but reliable.
+679,36,4536,2,Outstanding performance and reliability.
+680,1536,4536,2,Outstanding performance and reliability.
+681,1573,9073,5,Works well but expensive for what it is.
+682,73,9073,5,Works well but expensive for what it is.
+683,1552,3052,2,"Reliable product, no regrets."
+684,52,3052,2,"Reliable product, no regrets."
+685,79,4579,1,Would definitely buy again!
+686,1579,4579,1,Would definitely buy again!
+687,1533,4533,4,Good product but shipping took forever.
+688,33,4533,4,Good product but shipping took forever.
+689,1520,9020,3,"Not worth the money, save your cash."
+690,20,9020,3,"Not worth the money, save your cash."
+691,1556,7556,1,Love the design and functionality.
+692,56,7556,1,Love the design and functionality.
+693,51,1551,1,Mixed feelings about this one.
+694,1551,1551,1,Mixed feelings about this one.
+695,65,4565,2,Superior quality compared to competitors.
+696,1565,4565,2,Superior quality compared to competitors.
+697,1548,3048,4,Wish I had bought this sooner!
+698,48,3048,4,Wish I had bought this sooner!
+699,32,9032,5,"Functions perfectly, no issues so far."
+700,1532,9032,5,"Functions perfectly, no issues so far."
+701,29,9029,1,"Pretty good, room for improvement though."
+702,1529,9029,1,"Pretty good, room for improvement though."
+703,1563,63,4,Happy with the performance so far.
+704,63,63,4,Happy with the performance so far.
+705,65,7565,2,Superior quality compared to competitors.
+706,1565,7565,2,Superior quality compared to competitors.
+707,71,9071,5,Solid product despite minor flaws.
+708,1571,9071,5,Solid product despite minor flaws.
+709,61,6061,4,Better than I anticipated.
+710,1561,6061,4,Better than I anticipated.
+711,42,9042,5,Simple to set up and use daily.
+712,1542,9042,5,Simple to set up and use daily.
+713,71,71,5,Solid product despite minor flaws.
+714,1571,71,5,Solid product despite minor flaws.
+715,65,6065,2,Superior quality compared to competitors.
+716,1565,6065,2,Superior quality compared to competitors.
+717,1552,7552,2,"Reliable product, no regrets."
+718,52,7552,2,"Reliable product, no regrets."
+719,1501,6001,4,"Great product, very satisfied!"
+720,1,6001,4,"Great product, very satisfied!"
+721,77,77,2,Satisfied with the purchase overall.
+722,1577,77,2,Satisfied with the purchase overall.
+723,1556,4556,1,Love the design and functionality.
+724,56,4556,1,Love the design and functionality.
+725,1548,1548,4,Wish I had bought this sooner!
+726,48,1548,4,Wish I had bought this sooner!
+727,1546,3046,2,"Just average, nothing remarkable."
+728,46,3046,2,"Just average, nothing remarkable."
+729,1553,1553,5,Good features but poor execution.
+730,53,1553,5,Good features but poor execution.
+731,57,7557,3,Some improvements needed but good overall.
+732,1557,7557,3,Some improvements needed but good overall.
+733,1504,6004,1,The product arrived late but works well.
+734,4,6004,1,The product arrived late but works well.
+735,68,6068,3,Needs some refinement but promising.
+736,1568,6068,3,Needs some refinement but promising.
+737,72,7572,5,Really impressed with the quality.
+738,1572,7572,5,Really impressed with the quality.
+739,79,6079,1,Would definitely buy again!
+740,1579,6079,1,Would definitely buy again!
+741,49,9049,1,"Not the best, but gets the job done."
+742,1549,9049,1,"Not the best, but gets the job done."
+743,40,9040,2,Impressive features for the price.
+744,1540,9040,2,Impressive features for the price.
+745,1544,6044,5,Minor issues but works as intended.
+746,44,6044,5,Minor issues but works as intended.
+747,28,7528,1,"Solid construction, feels durable."
+748,1528,7528,1,"Solid construction, feels durable."
+749,72,1572,5,Really impressed with the quality.
+750,1572,1572,5,Really impressed with the quality.
+751,2,9002,1,"Not what I expected, but still decent."
+752,1502,9002,1,"Not what I expected, but still decent."
+753,39,3039,1,Some flaws but overall satisfactory.
+754,1539,3039,1,Some flaws but overall satisfactory.
+755,27,6027,5,Had some issues but support was helpful.
+756,1527,6027,5,Had some issues but support was helpful.
+757,1505,3005,1,Good value for the price.
+758,5,3005,1,Good value for the price.
+759,37,7537,5,"Does the basics well, nothing fancy."
+760,1537,7537,5,"Does the basics well, nothing fancy."
+761,36,36,2,Outstanding performance and reliability.
+762,1536,36,2,Outstanding performance and reliability.
+763,1563,3063,4,Happy with the performance so far.
+764,63,3063,4,Happy with the performance so far.
+765,51,4551,1,Mixed feelings about this one.
+766,1551,4551,1,Mixed feelings about this one.
+767,78,4578,1,Good quality but instructions unclear.
+768,1578,4578,1,Good quality but instructions unclear.
+769,27,9027,5,Had some issues but support was helpful.
+770,1527,9027,5,Had some issues but support was helpful.
+771,25,4525,1,Decent product but overpriced.
+772,1525,4525,1,Decent product but overpriced.
+773,1574,6074,2,"Fantastic product, fast shipping."
+774,74,6074,2,"Fantastic product, fast shipping."
+775,1519,4519,5,"Works as advertised, no complaints."
+776,19,4519,5,"Works as advertised, no complaints."
+777,1563,9063,4,Happy with the performance so far.
+778,63,9063,4,Happy with the performance so far.
+779,1562,9062,2,"Good product, slow delivery."
+780,62,9062,2,"Good product, slow delivery."
+781,1555,6055,3,"Decent build quality, fair price."
+782,55,6055,3,"Decent build quality, fair price."
+783,1548,7548,4,Wish I had bought this sooner!
+784,48,7548,4,Wish I had bought this sooner!
+785,65,1565,2,Superior quality compared to competitors.
+786,1565,1565,2,Superior quality compared to competitors.
+787,1511,7511,4,"Shipping was fast, product works great!"
+788,11,7511,4,"Shipping was fast, product works great!"
+789,1554,4554,2,Lives up to the hype completely.
+790,54,4554,2,Lives up to the hype completely.
+791,1544,4544,5,Minor issues but works as intended.
+792,44,4544,5,Minor issues but works as intended.
+793,1511,4511,4,"Shipping was fast, product works great!"
+794,11,4511,4,"Shipping was fast, product works great!"
+795,10,1510,2,Very impressed with the build quality.
+796,1510,1510,2,Very impressed with the build quality.
+797,1560,9060,1,Definitely recommend to others.
+798,60,9060,1,Definitely recommend to others.
+799,61,1561,4,Better than I anticipated.
+800,1561,1561,4,Better than I anticipated.
+801,37,9037,5,"Does the basics well, nothing fancy."
+802,1537,9037,5,"Does the basics well, nothing fancy."
+803,43,6043,3,"Great value, pleasantly surprised."
+804,1543,6043,3,"Great value, pleasantly surprised."
+805,36,7536,2,Outstanding performance and reliability.
+806,1536,7536,2,Outstanding performance and reliability.
+807,13,9013,5,"Perfect for my needs, highly recommend."
+808,1513,9013,5,"Perfect for my needs, highly recommend."
+809,1555,7555,3,"Decent build quality, fair price."
+810,55,7555,3,"Decent build quality, fair price."
+811,32,3032,5,"Functions perfectly, no issues so far."
+812,1532,3032,5,"Functions perfectly, no issues so far."
+813,1515,3015,3,"Lasted longer than expected, good purchase."
+814,15,3015,3,"Lasted longer than expected, good purchase."
+815,1576,9076,3,"Great features, worth the wait."
+816,76,9076,3,"Great features, worth the wait."
+817,79,79,1,Would definitely buy again!
+818,1579,79,1,Would definitely buy again!
+819,1517,9017,5,Disappointed with the overall quality.
+820,17,9017,5,Disappointed with the overall quality.
+821,42,3042,5,Simple to set up and use daily.
+822,1542,3042,5,Simple to set up and use daily.
+823,34,4534,4,Really happy with this purchase.
+824,1534,4534,4,Really happy with this purchase.
+825,1559,4559,2,Started strong but deteriorated quickly.
+826,59,4559,2,Started strong but deteriorated quickly.
+827,72,9072,5,Really impressed with the quality.
+828,1572,9072,5,Really impressed with the quality.
+829,32,4532,5,"Functions perfectly, no issues so far."
+830,1532,4532,5,"Functions perfectly, no issues so far."
+831,37,6037,5,"Does the basics well, nothing fancy."
+832,1537,6037,5,"Does the basics well, nothing fancy."
+833,1533,3033,4,Good product but shipping took forever.
+834,33,3033,4,Good product but shipping took forever.
+835,1520,4520,3,"Not worth the money, save your cash."
+836,20,4520,3,"Not worth the money, save your cash."
+837,29,4529,1,"Pretty good, room for improvement though."
+838,1529,4529,1,"Pretty good, room for improvement though."
+839,1550,1550,3,Outstanding quality and design.
+840,50,1550,3,Outstanding quality and design.
+841,28,28,1,"Solid construction, feels durable."
+842,1528,28,1,"Solid construction, feels durable."
+843,64,7564,2,Not quite what I was hoping for.
+844,1564,7564,2,Not quite what I was hoping for.
+845,1546,46,2,"Just average, nothing remarkable."
+846,46,46,2,"Just average, nothing remarkable."
+847,1576,1576,3,"Great features, worth the wait."
+848,76,1576,3,"Great features, worth the wait."
+849,1567,6067,4,Impressive attention to detail.
+850,67,6067,4,Impressive attention to detail.
+851,1533,33,4,Good product but shipping took forever.
+852,33,33,4,Good product but shipping took forever.
+853,69,6069,1,Amazing value for the features.
+854,1569,6069,1,Amazing value for the features.
+855,37,37,5,"Does the basics well, nothing fancy."
+856,1537,37,5,"Does the basics well, nothing fancy."
+857,79,1579,1,Would definitely buy again!
+858,1579,1579,1,Would definitely buy again!
+859,16,7516,4,"Customer service was excellent, product too."
+860,1516,7516,4,"Customer service was excellent, product too."
+861,61,7561,4,Better than I anticipated.
+862,1561,7561,4,Better than I anticipated.
+863,1550,3050,3,Outstanding quality and design.
+864,50,3050,3,Outstanding quality and design.
+865,1550,50,3,Outstanding quality and design.
+866,50,50,3,Outstanding quality and design.
+867,1508,9008,2,"Fantastic, exactly what I needed."
+868,8,9008,2,"Fantastic, exactly what I needed."
+869,7,7,3,Amazing! Exceeded my expectations.
+870,1507,7,3,Amazing! Exceeded my expectations.
+871,1546,6046,2,"Just average, nothing remarkable."
+872,46,6046,2,"Just average, nothing remarkable."
+873,39,6039,1,Some flaws but overall satisfactory.
+874,1539,6039,1,Some flaws but overall satisfactory.
+875,2,3002,1,"Not what I expected, but still decent."
+876,1502,3002,1,"Not what I expected, but still decent."
+877,1567,7567,4,Impressive attention to detail.
+878,67,7567,4,Impressive attention to detail.
+879,1515,9015,3,"Lasted longer than expected, good purchase."
+880,15,9015,3,"Lasted longer than expected, good purchase."
+881,1515,15,3,"Lasted longer than expected, good purchase."
+882,15,15,3,"Lasted longer than expected, good purchase."
+883,1501,4501,4,"Great product, very satisfied!"
+884,1,4501,4,"Great product, very satisfied!"
+885,2,6002,1,"Not what I expected, but still decent."
+886,1502,6002,1,"Not what I expected, but still decent."
+887,70,7570,3,Met my expectations perfectly.
+888,1570,7570,3,Met my expectations perfectly.
+889,23,3023,1,Nice design but functionality is lacking.
+890,1523,3023,1,Nice design but functionality is lacking.
+891,75,4575,5,Could use some improvements.
+892,1575,4575,5,Could use some improvements.
+893,1515,1515,3,"Lasted longer than expected, good purchase."
+894,15,1515,3,"Lasted longer than expected, good purchase."
+895,1567,1567,4,Impressive attention to detail.
+896,67,1567,4,Impressive attention to detail.
+897,24,6024,5,Would give it 6 stars if I could!
+898,1524,6024,5,Would give it 6 stars if I could!
+899,1560,4560,1,Definitely recommend to others.
+900,60,4560,1,Definitely recommend to others.
+901,31,9031,2,"Not as described, slightly disappointed."
+902,1531,9031,2,"Not as described, slightly disappointed."
+903,70,6070,3,Met my expectations perfectly.
+904,1570,6070,3,Met my expectations perfectly.
+905,34,3034,4,Really happy with this purchase.
+906,1534,3034,4,Really happy with this purchase.
+907,1563,7563,4,Happy with the performance so far.
+908,63,7563,4,Happy with the performance so far.
+909,61,4561,4,Better than I anticipated.
+910,1561,4561,4,Better than I anticipated.
+911,1505,7505,1,Good value for the price.
+912,5,7505,1,Good value for the price.
+913,1563,6063,4,Happy with the performance so far.
+914,63,6063,4,Happy with the performance so far.
+915,7,1507,3,Amazing! Exceeded my expectations.
+916,1507,1507,3,Amazing! Exceeded my expectations.
+917,1508,4508,2,"Fantastic, exactly what I needed."
+918,8,4508,2,"Fantastic, exactly what I needed."
+919,9,7509,2,"It is okay, does the job."
+920,1509,7509,2,"It is okay, does the job."
+921,42,42,5,Simple to set up and use daily.
+922,1542,42,5,Simple to set up and use daily.
+923,1521,4521,2,Exactly what I was looking for.
+924,21,4521,2,Exactly what I was looking for.
+925,18,4518,2,Best purchase I have made this year!
+926,1518,4518,2,Best purchase I have made this year!
+927,1562,3062,2,"Good product, slow delivery."
+928,62,3062,2,"Good product, slow delivery."
+929,78,78,1,Good quality but instructions unclear.
+930,1578,78,1,Good quality but instructions unclear.
+931,23,23,1,Nice design but functionality is lacking.
+932,1523,23,1,Nice design but functionality is lacking.
+933,6,1506,1,"The item broke after a week, not happy."
+934,1506,1506,1,"The item broke after a week, not happy."
+935,10,9010,2,Very impressed with the build quality.
+936,1510,9010,2,Very impressed with the build quality.
+937,18,18,2,Best purchase I have made this year!
+938,1518,18,2,Best purchase I have made this year!
+939,1505,4505,1,Good value for the price.
+940,5,4505,1,Good value for the price.
+941,1544,3044,5,Minor issues but works as intended.
+942,44,3044,5,Minor issues but works as intended.
+943,29,7529,1,"Pretty good, room for improvement though."
+944,1529,7529,1,"Pretty good, room for improvement though."
+945,32,7532,5,"Functions perfectly, no issues so far."
+946,1532,7532,5,"Functions perfectly, no issues so far."
+947,47,9047,1,Perfect addition to my setup.
+948,1547,9047,1,Perfect addition to my setup.
+949,1566,6066,1,Basic functionality but reliable.
+950,66,6066,1,Basic functionality but reliable.
+951,1562,6062,2,"Good product, slow delivery."
+952,62,6062,2,"Good product, slow delivery."
+953,39,39,1,Some flaws but overall satisfactory.
+954,1539,39,1,Some flaws but overall satisfactory.
+955,1566,7566,1,Basic functionality but reliable.
+956,66,7566,1,Basic functionality but reliable.
+957,1566,66,1,Basic functionality but reliable.
+958,66,66,1,Basic functionality but reliable.
+959,1545,4545,2,Exceeded my expectations completely.
+960,45,4545,2,Exceeded my expectations completely.
+961,18,9018,2,Best purchase I have made this year!
+962,1518,9018,2,Best purchase I have made this year!
+963,1505,9005,1,Good value for the price.
+964,5,9005,1,Good value for the price.
+965,1553,3053,5,Good features but poor execution.
+966,53,3053,5,Good features but poor execution.
+967,1544,44,5,Minor issues but works as intended.
+968,44,44,5,Minor issues but works as intended.
+969,29,3029,1,"Pretty good, room for improvement though."
+970,1529,3029,1,"Pretty good, room for improvement though."
+971,1552,6052,2,"Reliable product, no regrets."
+972,52,6052,2,"Reliable product, no regrets."
+973,1558,4558,3,Excellent product for daily use.
+974,58,4558,3,Excellent product for daily use.
+975,1504,4504,1,The product arrived late but works well.
+976,4,4504,1,The product arrived late but works well.
+977,27,27,5,Had some issues but support was helpful.
+978,1527,27,5,Had some issues but support was helpful.
+979,77,4577,2,Satisfied with the purchase overall.
+980,1577,4577,2,Satisfied with the purchase overall.
+981,18,6018,2,Best purchase I have made this year!
+982,1518,6018,2,Best purchase I have made this year!
+983,12,9012,4,Could be better for the price point.
+984,1512,9012,4,Could be better for the price point.
+985,40,6040,2,Impressive features for the price.
+986,1540,6040,2,Impressive features for the price.
+987,1517,4517,5,Disappointed with the overall quality.
+988,17,4517,5,Disappointed with the overall quality.
+989,1520,1520,3,"Not worth the money, save your cash."
+990,20,1520,3,"Not worth the money, save your cash."
+991,57,6057,3,Some improvements needed but good overall.
+992,1557,6057,3,Some improvements needed but good overall.
+993,64,9064,2,Not quite what I was hoping for.
+994,1564,9064,2,Not quite what I was hoping for.
+995,1535,6035,4,Quality control needs improvement.
+996,35,6035,4,Quality control needs improvement.
+997,47,6047,1,Perfect addition to my setup.
+998,1547,6047,1,Perfect addition to my setup.
+999,1526,9026,1,"Easy to use, great features."
+1000,26,9026,1,"Easy to use, great features."
+1001,1550,6050,3,Outstanding quality and design.
+1002,50,6050,3,Outstanding quality and design.
+1003,75,7575,5,Could use some improvements.
+1004,1575,7575,5,Could use some improvements.
+1005,10,4510,2,Very impressed with the build quality.
+1006,1510,4510,2,Very impressed with the build quality.
+1007,77,3077,2,Satisfied with the purchase overall.
+1008,1577,3077,2,Satisfied with the purchase overall.
+1009,1508,1508,2,"Fantastic, exactly what I needed."
+1010,8,1508,2,"Fantastic, exactly what I needed."
+1011,1545,6045,2,Exceeded my expectations completely.
+1012,45,6045,2,Exceeded my expectations completely.
+1013,1554,54,2,Lives up to the hype completely.
+1014,54,54,2,Lives up to the hype completely.
+1015,1504,4,1,The product arrived late but works well.
+1016,4,4,1,The product arrived late but works well.
+1017,2,2,1,"Not what I expected, but still decent."
+1018,1502,2,1,"Not what I expected, but still decent."
+1019,31,7531,2,"Not as described, slightly disappointed."
+1020,1531,7531,2,"Not as described, slightly disappointed."
+1021,1562,7562,2,"Good product, slow delivery."
+1022,62,7562,2,"Good product, slow delivery."
+1023,39,4539,1,Some flaws but overall satisfactory.
+1024,1539,4539,1,Some flaws but overall satisfactory.
+1025,1541,3041,3,Expected better quality materials.
+1026,41,3041,3,Expected better quality materials.
+1027,71,3071,5,Solid product despite minor flaws.
+1028,1571,3071,5,Solid product despite minor flaws.
+1029,1514,7514,2,"Average product, nothing special."
+1030,14,7514,2,"Average product, nothing special."
+1031,42,6042,5,Simple to set up and use daily.
+1032,1542,6042,5,Simple to set up and use daily.
+1033,24,9024,5,Would give it 6 stars if I could!
+1034,1524,9024,5,Would give it 6 stars if I could!
+1035,1554,7554,2,Lives up to the hype completely.
+1036,54,7554,2,Lives up to the hype completely.
+1037,69,1569,1,Amazing value for the features.
+1038,1569,1569,1,Amazing value for the features.
+1039,78,7578,1,Good quality but instructions unclear.
+1040,1578,7578,1,Good quality but instructions unclear.
+1041,79,9079,1,Would definitely buy again!
+1042,1579,9079,1,Would definitely buy again!
+1043,49,7549,1,"Not the best, but gets the job done."
+1044,1549,7549,1,"Not the best, but gets the job done."
+1045,43,4543,3,"Great value, pleasantly surprised."
+1046,1543,4543,3,"Great value, pleasantly surprised."
+1047,10,10,2,Very impressed with the build quality.
+1048,1510,10,2,Very impressed with the build quality.
+1049,1541,7541,3,Expected better quality materials.
+1050,41,7541,3,Expected better quality materials.
+1051,1508,8,2,"Fantastic, exactly what I needed."
+1052,8,8,2,"Fantastic, exactly what I needed."
+1053,1573,4573,5,Works well but expensive for what it is.
+1054,73,4573,5,Works well but expensive for what it is.
+1055,1514,9014,2,"Average product, nothing special."
+1056,14,9014,2,"Average product, nothing special."
+1057,65,65,2,Superior quality compared to competitors.
+1058,1565,65,2,Superior quality compared to competitors.
+1059,9,1509,2,"It is okay, does the job."
+1060,1509,1509,2,"It is okay, does the job."
+1061,47,4547,1,Perfect addition to my setup.
+1062,1547,4547,1,Perfect addition to my setup.
+1063,1560,1560,1,Definitely recommend to others.
+1064,60,1560,1,Definitely recommend to others.
+1065,1554,9054,2,Lives up to the hype completely.
+1066,54,9054,2,Lives up to the hype completely.
+1067,1521,9021,2,Exactly what I was looking for.
+1068,21,9021,2,Exactly what I was looking for.
+1069,25,6025,1,Decent product but overpriced.
+1070,1525,6025,1,Decent product but overpriced.
+1071,72,4572,5,Really impressed with the quality.
+1072,1572,4572,5,Really impressed with the quality.
+1073,24,1524,5,Would give it 6 stars if I could!
+1074,1524,1524,5,Would give it 6 stars if I could!
+1075,13,3013,5,"Perfect for my needs, highly recommend."
+1076,1513,3013,5,"Perfect for my needs, highly recommend."
+1077,1558,6058,3,Excellent product for daily use.
+1078,58,6058,3,Excellent product for daily use.
+1079,1508,7508,2,"Fantastic, exactly what I needed."
+1080,8,7508,2,"Fantastic, exactly what I needed."
+1081,28,4528,1,"Solid construction, feels durable."
+1082,1528,4528,1,"Solid construction, feels durable."
+1083,77,6077,2,Satisfied with the purchase overall.
+1084,1577,6077,2,Satisfied with the purchase overall.
+1085,1573,3073,5,Works well but expensive for what it is.
+1086,73,3073,5,Works well but expensive for what it is.
+1087,1546,4546,2,"Just average, nothing remarkable."
+1088,46,4546,2,"Just average, nothing remarkable."
+1089,64,3064,2,Not quite what I was hoping for.
+1090,1564,3064,2,Not quite what I was hoping for.
+1091,1554,6054,2,Lives up to the hype completely.
+1092,54,6054,2,Lives up to the hype completely.
+1093,1526,3026,1,"Easy to use, great features."
+1094,26,3026,1,"Easy to use, great features."
+1095,1576,4576,3,"Great features, worth the wait."
+1096,76,4576,3,"Great features, worth the wait."
+1097,65,3065,2,Superior quality compared to competitors.
+1098,1565,3065,2,Superior quality compared to competitors.
+1099,1552,52,2,"Reliable product, no regrets."
+1100,52,52,2,"Reliable product, no regrets."
+1101,24,4524,5,Would give it 6 stars if I could!
+1102,1524,4524,5,Would give it 6 stars if I could!
+1103,1530,3030,3,Absolutely love this product!
+1104,30,3030,3,Absolutely love this product!
+1105,1553,4553,5,Good features but poor execution.
+1106,53,4553,5,Good features but poor execution.
